@@ -1,4 +1,80 @@
 {
   "generatedAt": "2026-08-14",
-  "drafts": []
+  "drafts": [
+    {
+      "id": "marta-2026-08-14-01",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Everyone's excited about autonomous supply chain agents. Gartner is also predicting that over 40% of those projects will be canceled by the end of 2027.",
+        "The agent didn't fail. The data foundation under it did.",
+        "Supply chain software with agentic AI is going from under $2 billion in spend to $53 billion in five years. Over 40% of the projects built on it won't survive that long."
+      ],
+      "caption": "Everyone's excited about autonomous supply chain agents. Gartner is also predicting that over 40% of those projects will be canceled by the end of 2027.\n\nRead the reason list. Model capability isn't on it.\n\nThe causes Gartner names:\n→ No governance structure - nobody owns the call when the agent's decision is wrong\n→ No clean data foundation - the agent inherits the same broken master data your planners have fought for years\n→ No success metric attached - the \"pilot\" never had a number that decided if it graduated\n\nMeanwhile the market is real. Supply chain management software with agentic AI capability is projected to grow from under $2 billion in spend in 2025 to $53 billion by 2030, per Gartner. Organizations that get the foundation right are already reporting double-digit efficiency gains and decision latency cut from days to seconds.\n\nSame technology, opposite outcome. The difference isn't the vendor demo - it's whether someone owns the exception queue on a Tuesday morning.\n\nBefore you approve the next agent pilot: who signs off when it's wrong, and what number decides if it's still live in twelve months?",
+      "hashtags": "#SupplyChain #AgenticAI #SupplyChainManagement #OperationsStrategy #DigitalTransformation",
+      "imageIdea": "A dim control room at night, a wall of monitors displaying abstract flowing supply-chain network diagrams and glowing agent-node graphs, one monitor in the center gone to a flat red error glow while the others still pulse blue, blurred illegible data readouts on the panels beneath, an empty ergonomic chair pushed back from the console, cool blue cinematic lighting, shallow depth of field, editorial tech-industry photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Agentic AI",
+        "title": ["40% of agent projects", "won't survive to 2027"],
+        "big": "40%"
+      },
+      "sources": [
+        "Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027 — https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027",
+        "Forbes, Why 40% Of Agentic AI Projects May Be Canceled By 2027 (Jul 7, 2026) — https://www.forbes.com/sites/robertszczerba/2026/07/07/why-40-of-agentic-ai-projects-may-be-canceled-by-2027/",
+        "Gartner Forecasts Supply Chain Management Software with Agentic AI Will Grow to $53 Billion in Spend by 2030 — https://www.gartner.com/en/newsroom/press-releases/2026-04-07-gartner-forecasts-supply-chain-management-software-with-agentic-ai-will-grow-to-53-billion-in-spend-by-2030",
+        "Gartner Identifies Top Supply Chain Technology Trends for 2026 — https://www.gartner.com/en/newsroom/press-releases/2026-06-30-gartner-identifies-top-supply-chain-technology-trends-for-2026"
+      ]
+    },
+    {
+      "id": "marta-2026-08-14-02",
+      "pillar": "ml",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "77% of pharma supply chain leaders now rank AI-driven demand sensing for new launches as a top priority. Most are still feeding it the same three inputs as 2019.",
+        "A launch forecast built only on sales history is already six months late on day one.",
+        "Pharma leaders aren't asking if AI can forecast demand anymore. They're asking if it can forecast a launch nobody has sold before."
+      ],
+      "caption": "77% of pharma supply chain leaders now rank AI-driven demand sensing for new launches as a top priority, according to the LogiPharma 2025 AI Report, a survey of 100 senior leaders across Europe and North America.\n\nBut a launch has no sales history. That's the actual problem a demand-sensing model has to solve.\n\nThe teams getting it right aren't just swapping the forecasting engine. They're changing the inputs:\n→ Prescription and market-access data instead of only shipment history\n→ A rolling SKU-channel-region forecast that updates weekly, not a static plan set once a quarter\n→ Predictive risk alerts on the supply side - 53% of leaders are now using AI/ML here, up from roughly 30% two years earlier\n\nThe same report names the real blockers, and none of them is the model: internal resistance (70%), regulatory uncertainty, and a shortage of people who can read the model's output and act on it before the batch record closes.\n\nIf your last launch forecast was wrong, was it the algorithm - or the input nobody updated after month one?",
+      "hashtags": "#PharmaSupplyChain #DemandPlanning #MachineLearning #Pharma #LaunchExcellence",
+      "imageIdea": "A pharmaceutical cold-chain distribution warehouse aisle, stacked shipping cartons with blurred illegible pharma labels on steel shelving, a handheld barcode scanner resting on a pallet beside a tablet propped up and displaying an abstract blurred demand-forecast curve graph, soft blue-white LED warehouse lighting, shallow depth of field, editorial pharma-industry photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma & AI",
+        "title": ["Launch forecasts fail", "before the algorithm does"],
+        "big": "77%"
+      },
+      "sources": [
+        "Air Cargo Week, AI usage moves from pilot to pillar, claims LogiPharma in new report — https://aircargoweek.com/ai-usage-moves-from-pilot-to-pillar-claims-logipharma-in-new-report/",
+        "Pharma Manufacturing, AI usage in pharma supply chain is moving from pilots to practical deployment: report — https://www.pharmamanufacturing.com/quality-risk/supply-chain/article/55330559/ai-usage-in-pharma-supply-chain-is-moving-from-pilots-to-practical-deployment-report",
+        "Blue Yonder, LogiPharma 2025 Recap: AI Innovation in Pharma Supply Chains — https://blueyonder.com/resources/logipharma-2025-recap-ai-innovation-in-pharma-supply-chains",
+        "LogiPharma, The AI & Tech Report 2025 — https://logipharmaeu.wbresearch.com/downloads/the-ai-tech-report-2025"
+      ]
+    },
+    {
+      "id": "marta-2026-08-14-03",
+      "pillar": "auto",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Deloitte expects agentic AI adoption on the factory floor to roughly quadruple this year, from 6% to 24%. Only about one in five manufacturers say they're ready to scale it.",
+        "The sensor predicted the bearing failure twelve days out. The work order still sat in an inbox for nine of them.",
+        "Predicting the failure was the easy part. Nobody automated what happens after the alert."
+      ],
+      "caption": "Deloitte expects agentic AI adoption on the factory floor to roughly quadruple this year, from 6% to 24%. Only about one in five manufacturers say they're actually ready to scale it.\n\nThat gap isn't about the sensor. Most plants can already predict a bearing failure, a motor overheating, a line about to go down.\n\nWhat's missing is what happens in the days between the alert and the fix:\n→ Who owns the work order once the model flags it\n→ Which spare part gets reserved automatically instead of requested by email\n→ What triggers a line-speed change while the fix gets scheduled\n\nPredictive maintenance without an owned, automated response is a dashboard nobody acts on until the line stops anyway. It's the same failure mode Gartner points to across agentic AI projects broadly: the model works, the decision loop around it doesn't.\n\nThe plants closing that gap aren't buying a better model. They're assigning a name to the alert.\n\nWhen your last predictive-maintenance alert fired, how many hours passed before anyone with authority touched it?",
+      "hashtags": "#Manufacturing #PredictiveMaintenance #Industry40 #AgenticAI #OperationalExcellence",
+      "imageIdea": "An industrial factory floor at dusk, a large motor and bearing assembly mounted on a conveyor line with a small wireless vibration sensor clipped to its housing, a handheld diagnostic tablet propped on a nearby railing showing a blurred abstract waveform alert graph, a warm amber warning light glowing on a control panel in the background, dust particles visible in a shaft of factory light, shallow depth of field, cinematic industrial photography, no people in the foreground, no logos, no legible text.",
+      "cover": {
+        "kicker": "Manufacturing",
+        "title": ["Predicting failure is easy.", "Acting on it isn't."],
+        "big": "1 in 5"
+      },
+      "sources": [
+        "Dataiku, Manufacturing's 2026 Mandate: From AI Pilot to Agentic Profit — https://www.dataiku.com/blog/manufacturing-ai-trends-2026",
+        "Deloitte, Agentic AI is scaling faster than guardrails — https://www.deloitte.com/us/en/insights/topics/emerging-technologies/ai-agents-scaling-faster.html",
+        "Deloitte, 2026 Manufacturing Industry Outlook — https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/manufacturing-industry-outlook.html",
+        "Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027 — https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027"
+      ]
+    }
+  ]
 }
