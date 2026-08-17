@@ -75,6 +75,80 @@
         "Deloitte, 2026 Manufacturing Industry Outlook — https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/manufacturing-industry-outlook.html",
         "Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027 — https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027"
       ]
+    },
+    {
+      "id": "marta-2026-08-17-01",
+      "pillar": "retrabajo",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "The FDA's first AI warning letter didn't blame the AI. It blamed the missing signature.",
+        "An AI agent wrote the batch specs. Nobody wrote a control to check them. That's the whole warning letter.",
+        "Everyone's asking whether AI can draft GMP documents. In April, the FDA answered a different question: who's accountable when it does."
+      ],
+      "caption": "The FDA's first AI warning letter didn't blame the AI. It blamed the missing signature.\n\nIn April, the FDA sent Purolea Cosmetics Lab a warning letter with a section the agency had never written before: \"Inappropriate Use of Artificial Intelligence.\" The firm had used an AI agent to draft specifications, procedures, and master production and control records.\n\nThe citation wasn't that AI touched GMP documents. It was 21 CFR 211.22(c) - the firm didn't review the AI's output for accuracy before it went into use. Separately, the agent missed a process-validation requirement under 211.100, and nobody caught it before the inspection did.\n\nRead that twice. The AI didn't fail its job. Someone skipped theirs.\n\nIf you're piloting AI to draft batch records, specs, or CAPAs inside your quality system, the lesson isn't to stop. It's to name, in writing, who reviews the output before it becomes a controlled record - and to be able to show that the review happened, not just that a box got checked.\n\nAn AI draft is a draft. Your quality unit still signs it.\n\nWho in your quality system is named as reviewer of record for anything AI drafts, and can you point to their sign-off on the last one?",
+      "hashtags": "#Pharma #GMP #QualityAssurance #PharmaSupplyChain #Compliance",
+      "imageIdea": "A pharmaceutical QA office at a stainless steel desk under a focused desk lamp, a printed batch specification document lying open with blurred illegible text, a red ink review stamp frozen mid-press just above the page, a laptop screen softly out of focus in the background showing an abstract blurred document-editor interface, cool clinical overhead lighting mixed with the warm desk lamp glow, shallow depth of field, editorial pharma-industry photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma & AI",
+        "title": ["The FDA's first AI warning", "letter wasn't about the AI"],
+        "big": "1st"
+      },
+      "sources": [
+        "FDA, Warning Letter - Purolea Cosmetics Lab, 722591, 04/02/2026 — https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/purolea-cosmetics-lab-722591-04022026",
+        "Pharmaceutical Technology, What FDA's AI Warning Letter Tells Us About GMP Accountability — https://www.pharmtech.com/view/what-fda-s-ai-warning-letter-tells-us-about-gmp-accountability",
+        "GMP Compliance / ECA Academy, Use of AI Agents leads to the first FDA Warning Letter relating to AI — https://www.gmp-compliance.org/gmp-news/use-of-ai-agents-leads-to-the-first-fda-warning-letter-relating-to-ai",
+        "Clarkston Consulting, FDA Issues Warning for Inappropriate AI Use: What Pharma Manufacturers Need to Know — https://clarkstonconsulting.com/insights/fda-warning-letter-for-inappropriate-ai-use/"
+      ]
+    },
+    {
+      "id": "marta-2026-08-17-02",
+      "pillar": "mejora",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "58% of maintenance teams are already using AI. 79% of them saw unplanned downtime stay flat or get worse.",
+        "Two numbers, same plant, moving in opposite directions - AI adoption up, downtime not down.",
+        "75% of maintenance teams say their AI tool paid for itself in under six months. Their downtime log tells a different story."
+      ],
+      "caption": "58% of maintenance teams are already using AI. 79% of them saw unplanned downtime stay flat or get worse.\n\nThat's from MaintainX's 2026 State of Industrial Maintenance report, a survey of 2,234 maintenance and operations leaders across the US and Canada. 75% of teams using AI say they saw measurable ROI within six months. Meanwhile 45% report the same downtime as a year ago, 34% report more, and 39% say downtime got more expensive - up from 31% in 2025.\n\nTwo numbers, same plant, moving in opposite directions. The report's own explanation isn't the model. It's the people around it:\n→ Labor shortages leave predictive alerts unassigned\n→ Retiring veterans take undocumented troubleshooting knowledge with them\n→ Weak handoffs mean a flagged failure sits in a queue nobody owns\n\nA sensor that predicts a bearing failure twelve days out doesn't help if the work order takes nine of them to get picked up. The ROI shows up on the software invoice before it shows up on the line.\n\nIf your AI maintenance tool is already paying for itself on paper, what does your actual downtime log say for the same six months?",
+      "hashtags": "#Manufacturing #PredictiveMaintenance #ContinuousImprovement #Industry40 #Maintenance",
+      "imageIdea": "An aging industrial maintenance workshop, a steel cabinet wall holding a printed downtime tracking chart with blurred illegible handwritten numbers, a worn tool belt hanging next to a mounted tablet displaying an abstract blurred alert dashboard graph, dim fluorescent overhead lighting mixing with a warm desk lamp, faint dust visible in the air, shallow depth of field, cinematic industrial photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Manufacturing",
+        "title": ["AI adoption is up.", "Downtime isn't down."],
+        "big": "79%"
+      },
+      "sources": [
+        "MaintainX, AI in Industrial Maintenance Goes Mainstream (State of Industrial Maintenance Report 2026) — https://www.getmaintainx.com/newsroom/ai-goes-mainstream-on-the-factory-floor-maintainx-report-finds",
+        "MaintainX, State of Industrial Maintenance 2026 Report — https://www.getmaintainx.com/state-of-industrial-maintenance-report",
+        "MRO Magazine, Maintenance teams adopt AI and monitoring tools, but downtime persists: report — https://www.mromagazine.com/2026/05/20/maintenance-teams-adopt-ai-and-monitoring-tools-but-downtime-persists-report/",
+        "Industry Today, AI Goes Mainstream on the Factory Floor — https://industrytoday.com/ai-goes-mainstream-on-the-factory-floor/"
+      ]
+    },
+    {
+      "id": "marta-2026-08-17-03",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "AI is now embedded in fulfillment, inventory, and customer experience at most omnichannel retailers. MIT's newest survey says most of them funded it in the wrong order.",
+        "647 supply chain leaders were surveyed. The ones seeing returns didn't start with the flashiest AI use case.",
+        "Everyone wants the AI that personalizes the offer. MIT's data says fix the inventory number first."
+      ],
+      "caption": "AI is now embedded in fulfillment, inventory, and customer experience at most omnichannel retailers. MIT's newest survey says most of them funded it in the wrong order.\n\nMIT's Center for Transportation and Logistics surveyed 647 supply chain professionals for its 2026 State of Omnichannel Supply Chain Report. AI already touches demand forecasting (63%) and customer experience (64%), with personalization leading the list - 69% for marketing, 66% for recommendations, 66% for segmentation.\n\nBut personalization raised the bar on the layer underneath it: 65% of respondents now say they need real-time product availability, and 63% report higher inventory-accuracy requirements than before. MIT's own recommendation to leaders is blunt - fund the areas with proven ROI first, starting with inventory accuracy and fulfillment, before the AI use cases built on top of them.\n\nA recommendation engine trained on a wrong on-hand number doesn't get smarter. It gets confidently wrong, faster, at scale.\n\nBefore the next AI budget line gets approved: does it fix the inventory number, or does it sit on top of one you already don't trust?",
+      "hashtags": "#SupplyChain #Omnichannel #AIStrategy #InventoryManagement #DigitalTransformation",
+      "imageIdea": "A retail distribution center backroom, floor-to-ceiling steel racking stacked with mixed cardboard boxes, a wall-mounted screen glowing with an abstract blurred inventory dashboard chart showing conflicting bar heights, a forklift silhouette softly blurred in the background, cool industrial overhead lighting, shallow depth of field, editorial logistics photography, no people in the foreground, no logos, no legible text.",
+      "cover": {
+        "kicker": "Supply Chain Strategy",
+        "title": ["Fix the inventory number", "before the AI on top of it"],
+        "big": "63%"
+      },
+      "sources": [
+        "MIT Center for Transportation and Logistics, AI Is \"Not Optional Anymore\" in Omnichannel Supply Chains, New MIT CTL Research Finds — https://ctl.mit.edu/news/ai-not-optional-anymore-omnichannel-supply-chains-new-mit-ctl-research-finds",
+        "Supply Chain Management Review, AI and technology: The latest findings from the 2026 State of Omnichannel Supply Chain Report — https://www.scmr.com/article/ai-and-technology-the-latest-findings-from-the-2026-state-of-omnichannel-supply-chain-report",
+        "MIT CTL, State of Supply Chain Omnichannel Report — https://ctl.mit.edu/state-supply-chain-omnichannel-report-findings"
+      ]
     }
   ]
 }
