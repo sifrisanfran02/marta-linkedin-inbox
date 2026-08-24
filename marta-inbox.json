@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14",
+  "generatedAt": "2026-08-24",
   "drafts": [
     {
       "id": "marta-2026-08-14-01",
@@ -148,6 +148,80 @@
         "MIT Center for Transportation and Logistics, AI Is \"Not Optional Anymore\" in Omnichannel Supply Chains, New MIT CTL Research Finds — https://ctl.mit.edu/news/ai-not-optional-anymore-omnichannel-supply-chains-new-mit-ctl-research-finds",
         "Supply Chain Management Review, AI and technology: The latest findings from the 2026 State of Omnichannel Supply Chain Report — https://www.scmr.com/article/ai-and-technology-the-latest-findings-from-the-2026-state-of-omnichannel-supply-chain-report",
         "MIT CTL, State of Supply Chain Omnichannel Report — https://ctl.mit.edu/state-supply-chain-omnichannel-report-findings"
+      ]
+    },
+    {
+      "id": "marta-2026-08-24-01",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Everyone's asking how AI can fix your supply chain. Fewer are asking what AI is doing to the supply chain underneath it.",
+        "Data centers now eat an estimated 70% of the world's memory chips. Your next PO for boards and sensors is fighting for the rest.",
+        "The AI you're deploying to plan your supply chain is also the reason its components just got scarcer."
+      ],
+      "caption": "Everyone's asking how AI can fix your supply chain. Fewer are asking what AI is doing to the supply chain underneath it.\n\nS&P Global Market Intelligence's Q3 2026 corporate strategy outlook names AI demand itself as a structural supply risk, not a side note:\n→ Data centers now consume an estimated 70% of the memory chips produced worldwide\n→ Mainland China and Hong Kong's memory-circuit exports grew 151.5% year over year through April, now 28.1% of global trade - South Korea still leads at 44.5%\n→ SK Hynix's CEO warned in July the shortage will likely run past 2030\n→ The three largest memory producers plan to lift capex to $181.1 billion in 2027, up 141% versus 2024 - new fab capacity still takes years to qualify\n\nIf you buy boards, sensors, or control units, this isn't a procurement footnote anymore. It's showing up in landed cost and lead time on the next PO, whether or not \"AI\" appears anywhere in your category strategy.\n\nHave you modeled a memory-driven cost or lead-time shock into your 2027 sourcing plan, or is it still filed under someone else's problem?",
+      "hashtags": "#SupplyChain #Semiconductors #Procurement #SupplyChainRisk #Manufacturing",
+      "imageIdea": "A dim electronics manufacturing assembly line, a printed circuit board on a conveyor rail with several component sockets left empty next to populated ones, a small stack of memory chip trays sitting half-empty on a nearby workbench, cool blue-white LED cleanroom lighting, faint reflections on steel surfaces, shallow depth of field, editorial industrial-electronics photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Supply Chain Risk",
+        "title": ["AI is fixing supply chains.", "It's also straining them."],
+        "big": "70%"
+      },
+      "sources": [
+        "S&P Global Market Intelligence, Not All Supply Chain Bottlenecks Are Geographic: Q3 2026 Corporate Strategy Outlook — https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/07/corporate-strategy-supply-chain-outlook-q3-2026",
+        "Distribution Strategy Group, S&P Global: AI Demand, Material Shortages Reshape Supply Chain Risks — https://distributionstrategy.com/2026/08/sp-global-ai-demand-material-shortages-reshape-supply-chain-risks/",
+        "Tech Insider, 2026 Memory Chip Shortage: SK Hynix Warns It May Last Past 2030 — https://tech-insider.org/memory-chip-shortage-2026-ai-consumer-electronics/",
+        "Forbes, AI's Chip Boom Is Creating Labor And Supply-Chain Problems (May 15, 2026) — https://www.forbes.com/sites/ronschmelzer/2026/05/15/ais-chip-boom-is-creating-labor-and-supply-chain-problems/"
+      ]
+    },
+    {
+      "id": "marta-2026-08-24-02",
+      "pillar": "retrabajo",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Pharma proved AI can design a molecule in weeks. Getting that molecule's label changed across sixty markets still takes months of manual work.",
+        "Drug discovery got the AI investment. Regulatory execution got the leftovers.",
+        "Everyone funded the AI that discovers the drug. Almost nobody funded the AI that gets it approved in market sixty."
+      ],
+      "caption": "Pharma proved AI can design a molecule in weeks. Getting that molecule's label changed across sixty markets still takes months of manual work.\n\nThat's the gap Megha Sinha, CEO of Kolter AI, named in Pharmaceutical Technology's 2026 midyear check-in. Her read on where the industry's AI money actually went:\n→ Capital poured into AI-driven drug discovery and pilot programs\n→ Compliant execution of a geo expansion or lifecycle change - filings, label updates, country-by-country implementation waves - drew almost no funding\n→ That work stays manual, tribal, and reinvented from scratch on every single program\n\nHer point isn't that pharma under-invested in AI. It's that it invested in the interesting problem and left the expensive one alone. Discovery is glamorous and earns a press release. A label change across sixty regulatory regimes doesn't - it just eats headcount and months, every time, forever.\n\nSinha's team now computes the cross-market plan - filings, label updates, rollout waves - before affiliates are even contacted, so local teams validate a plan instead of building one from scratch.\n\nWhere does your organization's real execution cost live - the part that gets funded, or the part that gets reinvented every time?",
+      "hashtags": "#PharmaSupplyChain #Pharma #RegulatoryAffairs #AI #LifeSciences",
+      "imageIdea": "A pharmaceutical regulatory affairs office, a large world map pinned with small colored markers across dozens of countries mounted on a wall, stacks of country-labeled binders on a shelf below with blurred illegible spines, a laptop screen softly out of focus on the desk showing an abstract blurred workflow timeline, warm task lighting mixed with cool overhead light, shallow depth of field, editorial pharma-industry photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma & AI",
+        "title": ["AI solved the molecule.", "Not the other 60 markets."],
+        "big": "60"
+      },
+      "sources": [
+        "Pharmaceutical Technology, Q&A: Pharma AI in 2026: Discovery Solved, Execution Still Manual — https://www.pharmtech.com/view/pharma-ai-in-2026-discovery-solved-execution-still-manual",
+        "Pharmaceutical Technology, Midyear 2026 Check-In: AI Investment Skipped Pharma's Costliest Operational Problem — https://www.pharmtech.com/view/midyear-2026-check-in-ai-investment-skipped-pharma-costliest-operational-problem",
+        "Pharmaceutical Technology, The Most Expensive Unsolved Problem in Pharma — https://www.pharmtech.com/shorts/most-expensive-unsolved-problem-in-pharma"
+      ]
+    },
+    {
+      "id": "marta-2026-08-24-03",
+      "pillar": "auto",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "72% of trade professionals now call U.S. tariff volatility their top risk, up from 41% a year ago. Only 40% have brought AI anywhere near the trade desk.",
+        "Tariffs became supply chain's #1 problem almost overnight. The tools trade teams use to fight them didn't move nearly as fast.",
+        "Everyone agrees tariffs are the biggest risk on the board. Six in ten trade teams are still fighting them with a spreadsheet."
+      ],
+      "caption": "72% of trade professionals now call U.S. tariff volatility their most impactful regulatory risk, up from 41% just a year ago. Only 40% have brought AI anywhere near the trade desk to deal with it.\n\nThat's from Thomson Reuters' 2026 Global Trade Report, a survey of 225 senior trade professionals across North America, the EU, the UK, Latin America, and Asia-Pacific.\n→ Supply chain is now the top strategic priority for 68% of trade teams, nearly double the 35% who said so a year earlier\n→ AI and blockchain exploration for trade management sits at 40%, up from 6% in 2024 - real growth, still a minority\n→ Risk ranking moved fast. Tooling moved slower.\n\nDeloitte's manufacturing research points to what closes that gap: agentic tools that monitor disruption risk beyond Tier 1 suppliers and rebalance sourcing continuously, instead of a team re-running a landed-cost spreadsheet by hand every time a new rate drops.\n\nThe risk isn't waiting for your trade function to catch up. Is tariff exposure modeled continuously in your planning system, or recalculated by hand every time a rate changes?",
+      "hashtags": "#SupplyChain #Tariffs #TradeCompliance #AgenticAI #Manufacturing",
+      "imageIdea": "A customs clearance office at a shipping port, a desk with stacks of trade and customs documents with blurred illegible text, a large window behind showing softly blurred stacked shipping containers and a gantry crane at dusk, a desktop monitor glowing with an abstract blurred tariff-cost scenario chart, cool overcast port lighting mixed with warm interior desk light, shallow depth of field, editorial logistics photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Trade & AI",
+        "title": ["Tariffs are the #1 risk.", "Tools didn't keep up."],
+        "big": "72%"
+      },
+      "sources": [
+        "Thomson Reuters, 2026 Global Trade Report — https://www.thomsonreuters.com/en-us/posts/corporates/2026-global-trade-report/",
+        "Thomson Reuters Tax & Accounting, The 2026 supply chain challenge: Global trade disruption — https://tax.thomsonreuters.com/blog/2026s-supply-chain-challenge-confronting-complexity-and-disruption-in-global-trade-tri/",
+        "Supply Chain Intelligence, Thomson Reuters 2026 Global Trade Report recap — https://news.yrules.com/en/archives/5428",
+        "Deloitte, The agentic supply chain in manufacturing — https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/agentic-supply-chain-artificial-intelligence-manufacturing.html"
       ]
     }
   ]
