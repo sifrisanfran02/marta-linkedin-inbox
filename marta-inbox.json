@@ -16,7 +16,10 @@
       "imageIdea": "A dim control room at night, a wall of monitors displaying abstract flowing supply-chain network diagrams and glowing agent-node graphs, one monitor in the center gone to a flat red error glow while the others still pulse blue, blurred illegible data readouts on the panels beneath, an empty ergonomic chair pushed back from the console, cool blue cinematic lighting, shallow depth of field, editorial tech-industry photography, no people, no logos, no legible text.",
       "cover": {
         "kicker": "Agentic AI",
-        "title": ["40% of agent projects", "won't survive to 2027"],
+        "title": [
+          "40% of agent projects",
+          "won't survive to 2027"
+        ],
         "big": "40%"
       },
       "sources": [
@@ -41,7 +44,10 @@
       "imageIdea": "A pharmaceutical cold-chain distribution warehouse aisle, stacked shipping cartons with blurred illegible pharma labels on steel shelving, a handheld barcode scanner resting on a pallet beside a tablet propped up and displaying an abstract blurred demand-forecast curve graph, soft blue-white LED warehouse lighting, shallow depth of field, editorial pharma-industry photography, no people, no logos, no legible text.",
       "cover": {
         "kicker": "Pharma & AI",
-        "title": ["Launch forecasts fail", "before the algorithm does"],
+        "title": [
+          "Launch forecasts fail",
+          "before the algorithm does"
+        ],
         "big": "77%"
       },
       "sources": [
@@ -66,7 +72,10 @@
       "imageIdea": "An industrial factory floor at dusk, a large motor and bearing assembly mounted on a conveyor line with a small wireless vibration sensor clipped to its housing, a handheld diagnostic tablet propped on a nearby railing showing a blurred abstract waveform alert graph, a warm amber warning light glowing on a control panel in the background, dust particles visible in a shaft of factory light, shallow depth of field, cinematic industrial photography, no people in the foreground, no logos, no legible text.",
       "cover": {
         "kicker": "Manufacturing",
-        "title": ["Predicting failure is easy.", "Acting on it isn't."],
+        "title": [
+          "Predicting failure is easy.",
+          "Acting on it isn't."
+        ],
         "big": "1 in 5"
       },
       "sources": [
@@ -91,7 +100,10 @@
       "imageIdea": "A pharmaceutical QA office at a stainless steel desk under a focused desk lamp, a printed batch specification document lying open with blurred illegible text, a red ink review stamp frozen mid-press just above the page, a laptop screen softly out of focus in the background showing an abstract blurred document-editor interface, cool clinical overhead lighting mixed with the warm desk lamp glow, shallow depth of field, editorial pharma-industry photography, no people, no logos, no legible text.",
       "cover": {
         "kicker": "Pharma & AI",
-        "title": ["The FDA's first AI warning", "letter wasn't about the AI"],
+        "title": [
+          "The FDA's first AI warning",
+          "letter wasn't about the AI"
+        ],
         "big": "1st"
       },
       "sources": [
@@ -116,7 +128,10 @@
       "imageIdea": "An aging industrial maintenance workshop, a steel cabinet wall holding a printed downtime tracking chart with blurred illegible handwritten numbers, a worn tool belt hanging next to a mounted tablet displaying an abstract blurred alert dashboard graph, dim fluorescent overhead lighting mixing with a warm desk lamp, faint dust visible in the air, shallow depth of field, cinematic industrial photography, no people, no logos, no legible text.",
       "cover": {
         "kicker": "Manufacturing",
-        "title": ["AI adoption is up.", "Downtime isn't down."],
+        "title": [
+          "AI adoption is up.",
+          "Downtime isn't down."
+        ],
         "big": "79%"
       },
       "sources": [
@@ -141,7 +156,10 @@
       "imageIdea": "A retail distribution center backroom, floor-to-ceiling steel racking stacked with mixed cardboard boxes, a wall-mounted screen glowing with an abstract blurred inventory dashboard chart showing conflicting bar heights, a forklift silhouette softly blurred in the background, cool industrial overhead lighting, shallow depth of field, editorial logistics photography, no people in the foreground, no logos, no legible text.",
       "cover": {
         "kicker": "Supply Chain Strategy",
-        "title": ["Fix the inventory number", "before the AI on top of it"],
+        "title": [
+          "Fix the inventory number",
+          "before the AI on top of it"
+        ],
         "big": "63%"
       },
       "sources": [
@@ -165,7 +183,10 @@
       "imageIdea": "A dim electronics manufacturing assembly line, a printed circuit board on a conveyor rail with several component sockets left empty next to populated ones, a small stack of memory chip trays sitting half-empty on a nearby workbench, cool blue-white LED cleanroom lighting, faint reflections on steel surfaces, shallow depth of field, editorial industrial-electronics photography, no people, no logos, no legible text.",
       "cover": {
         "kicker": "Supply Chain Risk",
-        "title": ["AI is fixing supply chains.", "It's also straining them."],
+        "title": [
+          "AI is fixing supply chains.",
+          "It's also straining them."
+        ],
         "big": "70%"
       },
       "sources": [
@@ -190,7 +211,10 @@
       "imageIdea": "A pharmaceutical regulatory affairs office, a large world map pinned with small colored markers across dozens of countries mounted on a wall, stacks of country-labeled binders on a shelf below with blurred illegible spines, a laptop screen softly out of focus on the desk showing an abstract blurred workflow timeline, warm task lighting mixed with cool overhead light, shallow depth of field, editorial pharma-industry photography, no people, no logos, no legible text.",
       "cover": {
         "kicker": "Pharma & AI",
-        "title": ["AI solved the molecule.", "Not the other 60 markets."],
+        "title": [
+          "AI solved the molecule.",
+          "Not the other 60 markets."
+        ],
         "big": "60"
       },
       "sources": [
@@ -214,7 +238,10 @@
       "imageIdea": "A customs clearance office at a shipping port, a desk with stacks of trade and customs documents with blurred illegible text, a large window behind showing softly blurred stacked shipping containers and a gantry crane at dusk, a desktop monitor glowing with an abstract blurred tariff-cost scenario chart, cool overcast port lighting mixed with warm interior desk light, shallow depth of field, editorial logistics photography, no people, no logos, no legible text.",
       "cover": {
         "kicker": "Trade & AI",
-        "title": ["Tariffs are the #1 risk.", "Tools didn't keep up."],
+        "title": [
+          "Tariffs are the #1 risk.",
+          "Tools didn't keep up."
+        ],
         "big": "72%"
       },
       "sources": [
@@ -222,6 +249,142 @@
         "Thomson Reuters Tax & Accounting, The 2026 supply chain challenge: Global trade disruption — https://tax.thomsonreuters.com/blog/2026s-supply-chain-challenge-confronting-complexity-and-disruption-in-global-trade-tri/",
         "Supply Chain Intelligence, Thomson Reuters 2026 Global Trade Report recap — https://news.yrules.com/en/archives/5428",
         "Deloitte, The agentic supply chain in manufacturing — https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/agentic-supply-chain-artificial-intelligence-manufacturing.html"
+      ]
+    },
+    {
+      "id": "marta-2026-08-31-01",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "67% of supply chain digital investment now goes to AI. 55% of chief supply chain officers can't tell you what it returned.",
+        "The AI budget line grew faster than anyone built a way to measure it.",
+        "Gartner surveyed hundreds of supply chain leaders this year. Most know the AI spend. Fewer know the return."
+      ],
+      "caption": "67% of supply chain digital investment now goes to AI. 55% of chief supply chain officers still can't say what it returned.\n\nThat's Gartner's August 2026 survey - 394 supply chain professionals polled between November 2025 and February 2026, plus 135 senior leaders polled through April. The spend moved fast. The measurement didn't keep up.\n\nGartner's own diagnosis isn't the technology. It's the pace:\n→ New AI use cases keep arriving faster than change management can absorb them\n→ Pilots launch without a baseline metric attached before day one\n→ \"Adoption\" gets tracked. Impact on cost, service, or cash doesn't\n\nGartner's prediction for the ones who fix this: by 2030, organizations that size their change management to the scale and speed of each AI initiative will generate twice the ROI of those still running standardized, legacy rollout playbooks.\n\nThat's not a technology upgrade. It's a discipline - naming the number before the pilot starts, not explaining it away after.\n\nCan you name the one metric that decided whether your last AI supply chain pilot was worth the spend, or would you have to guess?",
+      "hashtags": "#SupplyChain #AIStrategy #SupplyChainManagement #ChangeManagement #CSCO",
+      "imageIdea": "A supply chain command center desk at dusk, two side-by-side printed reports lying open on the desk - one showing a tall blurred bar chart trending sharply upward, the other beside it showing a flat blurred line graph, a closed laptop reflecting a faint blue dashboard glow on the desk surface, a single desk lamp casting focused warm light against cool ambient blue from wall monitors in the background, shallow depth of field, editorial corporate-strategy photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Supply Chain & AI",
+        "title": [
+          "AI spend is up 67%.",
+          "ROI clarity isn't."
+        ],
+        "big": "55%"
+      },
+      "sources": [
+        "Gartner, Gartner Survey Finds Majority of Chief Supply Chain Officers Unclear on AI Investment Returns (Aug 5, 2026) — https://www.gartner.com/en/newsroom/press-releases/2026-08-05-gartner-survey-finds-majority-of-chief-supply-chain-officers-unclear-on-ai-investment-returns",
+        "Supply Chain 24/7, Gartner: 55% of Supply Chain Leaders Unclear on AI Returns — https://www.supplychain247.com/article/gartner-supply-chain-chiefs-unclear-ai-investment-returns",
+        "Modern Distribution Management, Gartner: 55% of Supply Chain Chiefs Unclear on AI ROI — https://www.mdm.com/news/technology/ai/gartner-55-of-supply-chain-chiefs-unclear-on-ai-roi/"
+      ]
+    },
+    {
+      "id": "marta-2026-09-01-01",
+      "pillar": "ml",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "BCG surveyed 181 supply chain leaders. The ones with the best forecast accuracy didn't buy a better algorithm first.",
+        "Same category of AI tools, a 25-point forecast-accuracy gap. The difference wasn't the model.",
+        "Everyone's layering AI onto the S&OP process. BCG's data says fix the process before you layer anything onto it."
+      ],
+      "caption": "BCG surveyed 181 supply chain leaders across consumer, industrial, and technology companies for its Supply Chain Planning 2026 report. The ones with the best forecast accuracy didn't buy a better algorithm first.\n\nCompanies that took a technology-first approach - layering AI onto the planning process as it already existed - reported productivity gains in the single digits. Some came back negative once implementation and transition costs were counted.\n\nThe organizations that pulled ahead did something less exciting before touching a model:\n→ Redesigned the planning process itself, not just the tool inside it\n→ Built cross-functional working methods so the forecast is a shared decision, not one planner's spreadsheet\n→ Applied what BCG calls decision-led planning - the process defines what the AI needs to answer, not the other way around\n\nThe payoff: organizations with higher planning maturity report 25% higher forecast accuracy than low-maturity peers running the same category of tools.\n\nThe algorithm was never the bottleneck. The process it got dropped into was.\n\nBefore your next demand-planning AI pilot: has the S&OP process it plugs into actually been redesigned, or is it just another dashboard next to the one nobody trusted last quarter?",
+      "hashtags": "#SupplyChain #DemandPlanning #SandOP #SupplyChainPlanning #ForecastAccuracy",
+      "imageIdea": "A cross-functional S&OP planning room, a large glass wall covered in blurred sticky notes and a hand-drawn process-flow diagram, a wall-mounted screen showing two overlapping demand-forecast curves - one jagged and erratic, one smooth - both rendered as abstract blurred graph lines, empty chairs pushed in around a long conference table, warm afternoon light through blinds casting soft shadow bars across the table, shallow depth of field, editorial corporate-operations photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Demand Planning",
+        "title": [
+          "Better forecasts start",
+          "before the algorithm"
+        ],
+        "big": "25%"
+      },
+      "sources": [
+        "BCG, Supply Chain Planning 2026: Why AI Alone Isn't Enough — https://www.bcg.com/publications/2026/supply-chain-planning-why-ai-alone-isnt-enough",
+        "Procurement Magazine, Why AI Alone is Failing to Fix the Supply Chain Issue — https://procurementmag.com/news/ai-alone-failing-fix-supply-chain",
+        "CXTMS, The AI Implementation Gap: Why BCG Says Technology Alone Won't Fix Supply Chain Planning in 2026 — https://cxtms.com/blog/ai-implementation-gap-supply-chain-planning-bcg-report-2026"
+      ]
+    },
+    {
+      "id": "marta-2026-09-02-01",
+      "pillar": "auto",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Foxconn is putting humanoid robots on a production line this quarter. Amazon already runs over a million robots in its warehouses today.",
+        "The humanoid on the trade-show stage isn't what's moving pallets on your floor in 2026. The boring cart-shaped robot is.",
+        "Hyundai's humanoids don't reach a factory floor until 2028. The robots already paying for themselves arrived years earlier."
+      ],
+      "caption": "Foxconn is putting humanoid robots on a production line this quarter, at its Houston AI-server plant, running Nvidia's Isaac GR00T platform. Hyundai's Boston Dynamics humanoids don't reach a factory floor until 2028, at its Georgia plant. Samsung's own target for fully AI-driven manufacturing sites is 2030.\n\nThose are real programs, not vaporware. They're also years from most factory floors.\n\nWhat's already running, today, at scale:\n→ Amazon Robotics operates over one million mobile robots across its fulfillment network\n→ Collaborative robots now make up roughly a fifth of mobile robot units deployed across logistics hubs, per industry robotics analysts\n→ Live AMR deployments are reporting payback inside 24 months in multiple industry studies\n\nThe humanoid headline is the easy budget conversation to have with your board. The AMR or cobot pilot with a payback case attached is the harder, more useful one - and it's the one you can actually run this year.\n\nIs your 2027 automation budget chasing the humanoid headline, or funding the pilot on your own floor that already has a payback number attached?",
+      "hashtags": "#Manufacturing #Robotics #PhysicalAI #Automation #Industry40",
+      "imageIdea": "A dim factory floor at night, in the sharp foreground a squat autonomous mobile robot with a flat cargo deck gliding past steel racking carrying a stack of blurred cardboard boxes, in the soft out-of-focus background under a single dramatic spotlight a tall humanoid robot silhouette stands motionless on a raised platform like a trade-show display, cool industrial blue light at floor level contrasting with a warm spotlight above, shallow depth of field, cinematic industrial photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Manufacturing",
+        "title": [
+          "Humanoids are years out.",
+          "AMRs are running now."
+        ],
+        "big": "1M+"
+      },
+      "sources": [
+        "Technology Magazine, Foxconn, Nvidia and Tesla to Power Humanoid Robot Revolution — https://technologymagazine.com/news/foxconn-nvidia-and-tesla-to-power-humanoid-robot-revolution",
+        "Assembly Magazine, Foxconn to Deploy Humanoid Robots on Production Line at Houston AI Server Plant — https://www.assemblymag.com/articles/99628-foxconn-to-deploy-humanoid-robots-on-production-line-at-houston-ai-server-plant",
+        "Manufacturing Dive, The physical AI craze and other automation trends to watch in 2026 — https://www.manufacturingdive.com/news/physical-ai-craze-2026-automation-trends-to-watch/810860/",
+        "Market.us Scoop, Autonomous Mobile Robots Statistics and Facts (2026) — https://scoop.market.us/autonomous-mobile-robots-statistics/"
+      ]
+    },
+    {
+      "id": "marta-2026-09-03-01",
+      "pillar": "retrabajo",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Every DSCSA deadline before this one already passed. The last one closes November 27, 2026 - about three months from now.",
+        "Manufacturers, distributors, and large pharmacies already met their DSCSA deadline. Small dispensers have three months left.",
+        "The DSCSA clock has been running for years. The last exemption expires this fall."
+      ],
+      "caption": "Every DSCSA deadline before this one already passed. The last one closes November 27, 2026 - about three months from now.\n\nManufacturers hit their compliance date in May 2025. Wholesale distributors followed in August 2025. Large dispensers were enforced starting November 2025. What's left: small dispensers - pharmacies with 25 or fewer pharmacists and technicians - whose exemption ends this November.\n\nThe requirement isn't paperwork. It's an operational capability:\n→ Exchange serialized transaction data electronically with trading partners, not by fax or PDF\n→ Verify product identifiers on receipt, package by package\n→ Confirm saleable returns with the manufacturer before anything gets redistributed\n\nSmall pharmacies are the segment least likely to have tested a live serialized data exchange with their distributors. No forecasting model or AI copilot fixes a compliance exception queue built for the first time in the final quarter before enforcement.\n\nIf you sell into or distribute to small dispensers, this is a supply-continuity risk sitting three months out, not a compliance footnote.\n\nHave you actually tested a live serialized transaction exchange with your smallest dispensing partners, or are you assuming their system will be ready in November?",
+      "hashtags": "#PharmaSupplyChain #DSCSA #Pharma #SupplyChainCompliance #Traceability",
+      "imageIdea": "A small independent pharmacy back room, a stainless steel counter stacked with pharmaceutical shipping cartons showing blurred illegible serialized labels, a handheld barcode verification scanner resting beside an open logbook, a wall calendar in soft focus behind with one date circled in red marker, cool fluorescent overhead lighting, shallow depth of field, editorial pharma-industry photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma & Compliance",
+        "title": [
+          "The last DSCSA deadline",
+          "closes in November"
+        ],
+        "big": "Nov 27"
+      },
+      "sources": [
+        "TraceLink, DSCSA Readiness Alert: Wholesale Distributors, Your August 27 Deadline Is Here — https://www.tracelink.com/resources/resource-center/dscsa-readiness-alert-wholesale-distributors-your-august-27-deadline-here",
+        "SupplyChainWizard, DSCSA Deadline Map by Trading Partner Type — https://supplychainwizard.com/dscsa-deadline-map-by-trading-partner-type/",
+        "MedPak, DSCSA Compliance Requirements & Deadlines by Role — https://medpak.com/dscsa-compliance/"
+      ]
+    },
+    {
+      "id": "marta-2026-09-04-01",
+      "pillar": "mejora",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "McKinsey's newest global AI survey: 37% of companies attribute EBIT impact to AI. That number hasn't moved in a year.",
+        "80% of your team feels more productive with AI. 6% of companies can prove it hit the P&L.",
+        "The copilot saved the planner three hours this week. The scorecard didn't move an inch."
+      ],
+      "caption": "McKinsey's newest global AI survey: 37% of companies attribute EBIT impact to AI. That number hasn't moved in a year, despite record spend.\n\nAround 80% of individual workers report feeling more productive with AI tools. Only 6% of organizations qualify as what McKinsey calls AI high performers - attributing at least 5% of EBIT to AI and describing the impact as significant.\n\nThe gap between those two numbers isn't the model. It's what happens to the time it frees up:\n→ A planner saves three hours summarizing a demand report with a copilot\n→ Nothing downstream changes - PO cycle time, expedite fees, and inventory turns stay exactly where they were\n→ The saved time stays on the planner's desk instead of flowing into a number anyone tracks\n\nA productivity gain only becomes a business result if something on the other end was redesigned to use it - a faster PO cycle, a shorter forecast-to-commit loop, fewer manual touches per exception.\n\nBefore you credit the copilot on your team with a win: can you point to the specific line on the ops scorecard that moved because of it, or just the hours it saved?",
+      "hashtags": "#SupplyChain #AIStrategy #ContinuousImprovement #OperationalExcellence #Productivity",
+      "imageIdea": "A demand-planning analyst's desk at end of day, a widescreen monitor glowing with an abstract blurred AI-chat interface panel beside an open spreadsheet grid, a small printed operations scorecard taped to a nearby cubicle wall showing a flat, unchanged blurred trend line, a coffee cup and a closed notebook resting on the desk, cool office lighting mixed with warm monitor glow, shallow depth of field, editorial corporate-office photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "AI & ROI",
+        "title": [
+          "80% feel more productive.",
+          "6% can prove it paid off."
+        ],
+        "big": "6%"
+      },
+      "sources": [
+        "McKinsey, The State of AI: Global Survey 2026 — https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+        "IT Pro, McKinsey says AI is finally paying off for enterprises but rising costs and constrained efficiency boosts are still a major hurdle — https://www.itpro.com/business/business-strategy/a-striking-finding-this-year-is-the-gap-between-individual-gains-and-enterprise-impact-mckinsey-says-ai-is-finally-paying-off-for-enterprises-but-rising-costs-and-constrained-efficiency-boosts-are-still-a-major-hurdle",
+        "The Register, McKinsey says enterprise AI is finally 'on the road to ROI' — https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/"
       ]
     }
   ]
