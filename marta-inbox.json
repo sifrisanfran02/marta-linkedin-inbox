@@ -386,6 +386,146 @@
         "IT Pro, McKinsey says AI is finally paying off for enterprises but rising costs and constrained efficiency boosts are still a major hurdle — https://www.itpro.com/business/business-strategy/a-striking-finding-this-year-is-the-gap-between-individual-gains-and-enterprise-impact-mckinsey-says-ai-is-finally-paying-off-for-enterprises-but-rising-costs-and-constrained-efficiency-boosts-are-still-a-major-hurdle",
         "The Register, McKinsey says enterprise AI is finally 'on the road to ROI' — https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/"
       ]
+    },
+    {
+      "id": "marta-2026-09-05-01",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Nucleus Research just named six control tower leaders for 2026. None of them won on feature count.",
+        "Buy a control tower for the dashboard, and you bought the wrong tool.",
+        "Every major control tower vendor now lists the same AI capabilities. The 2026 rankings split on something else entirely."
+      ],
+      "caption": "Nucleus Research just published its 2026 Control Tower Technology Value Matrix, naming Blue Yonder, e2open, Elemica, FourKites, Infor, and o9 Solutions as leaders.\n\nRead past the logo grid and the report makes one point clearly: planning, execution, multi-enterprise networks, visibility, and manufacturing control are converging into the same category. Every serious vendor now claims predictive analytics, optimization, and prescriptive AI.\n\nSo what actually separated the leaders? Nucleus calls it decision velocity - the time between spotting a disruption that materially affects the business, understanding what it costs, and acting while there's still time to change the outcome.\n→ Shorten that cycle and you cut expedite costs, inventory exposure, and backorders\n→ Stretch it and the same AI output just sits in a queue as another alert nobody actioned\n→ o9 was singled out for its Enterprise Knowledge Graph, now layered with a neurosymbolic AI framework - a concrete example of infrastructure built for that speed, not just for forecasting accuracy\n\nThe dashboard was never the product. The decision loop around it is.\n\nWhen your control tower flags a disruption today, how many hours pass before someone with authority actually acts on it?",
+      "hashtags": "#SupplyChain #ControlTower #SupplyChainTechnology #AIStrategy #SupplyChainManagement",
+      "imageIdea": "A curved wall of glowing world-map logistics network screens in a supply chain operations center, one bright alert node pulsing red at a port location while thin light trails race outward along shipping and rail routes, a translucent holographic countdown ring hovering in the foreground catching the light, blurred illegible data tables reflected faintly on the glossy floor, cool blue cinematic lighting with a single red accent, shallow depth of field, editorial tech-industry 3D render, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Supply Chain Tech",
+        "title": [
+          "Six vendors made the list.",
+          "Decision speed made the difference."
+        ],
+        "big": "6"
+      },
+      "sources": [
+        "PRNewswire, Nucleus Research Releases 2026 Control Tower Technology Value Matrix — https://www.prnewswire.com/news-releases/nucleus-research-releases-2026-control-tower-technology-value-matrix-302866439.html",
+        "AI Journal, Nucleus Research Releases 2026 Control Tower Technology Value Matrix — https://aijourn.com/nucleus-research-releases-2026-control-tower-technology-value-matrix/",
+        "AI Journal, o9 Solutions Named a Leader in 2026 Nucleus Research Control Tower Technology Value Matrix — https://aijourn.com/o9-solutions-named-a-leader-in-2026-nucleus-research-control-tower-technology-value-matrix/",
+        "01net.it, o9 Solutions Named a Leader in 2026 Nucleus Research Control Tower Technology Value Matrix — https://www.01net.it/o9-solutions-named-a-leader-in-2026-nucleus-research-control-tower-technology-value-matrix/"
+      ]
+    },
+    {
+      "id": "marta-2026-09-05-02",
+      "pillar": "ml",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Lenovo builds roughly three devices every second across 30 factories. One connected planning layer is what makes that number hold up.",
+        "5% more accurate forecasts. 4% better on-time delivery. Same team, one less fragmented system.",
+        "Lenovo didn't chase a bigger forecasting model. It chased one digital twin of its entire supply network."
+      ],
+      "caption": "Lenovo operates 30 manufacturing facilities, serves customers in 180 markets, and produces roughly three devices every second. That volume doesn't survive on separate spreadsheets for demand, supply, and factory planning.\n\nLenovo put demand planning, supply planning, factory planning, and order promising on one Blue Yonder foundation, then used it to build a digital twin of the entire network - every factory, distribution center, and transportation lane visible in the same model instead of three disconnected ones.\n\nThe reported results:\n→ 5% higher forecast accuracy\n→ 4% improvement in on-time delivery\n→ 10% higher delivery accuracy\n\nNone of those numbers came from a smarter algorithm bolted onto the old process. They came from removing the translation step between planning systems that used to disagree with each other by the time a plan reached the factory floor.\n\nThat's the part worth copying before the AI headline: one connected model beats three accurate ones that don't talk to each other.\n\nDo your demand, supply, and factory plans run on one shared number, or does someone still reconcile three versions before Monday's meeting?",
+      "hashtags": "#SupplyChain #DemandPlanning #DigitalTwin #SupplyChainPlanning #Manufacturing",
+      "imageIdea": "A high-precision electronics assembly line at dusk, a robotic pick-and-place arm mid-motion placing a component onto a circuit board on a moving conveyor, a translucent holographic overlay of a factory floor layout and shipping-route map hovering just above the line suggesting a connected digital twin, blurred illegible readouts on a nearby wall-mounted screen, cool white cleanroom lighting with a soft blue holographic glow, shallow depth of field, editorial industrial-technology photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Demand & Supply Planning",
+        "title": [
+          "One digital twin.",
+          "Three numbers moved."
+        ],
+        "big": "5%"
+      },
+      "sources": [
+        "Blue Yonder, Blue Yonder Helps Lenovo Master Its Complex Inventory Challenges — https://blueyonder.com/customers/lenovo",
+        "Supply Chain Digital, Kinaxis, o9 & Blue Yonder: Leading Supply Chain Technology — https://supplychaindigital.com/news/companies-leading-supply-chain-technology",
+        "Manufacturing Digital, How Kinaxis, o9 & Blue Yonder Fix Fragmented Supply Chains — https://manufacturingdigital.com/news/how-kinaxis-o9-blue-yonder-fix-fragmented-supply-chains",
+        "BusinessWire, Lenovo To Digitally Transform Supply Planning and S&OP Capabilities with Blue Yonder — https://www.businesswire.com/news/home/20220217005113/en/Lenovo-To-Digitally-Transform-Supply-Planning-and-SOP-Capabilities-with-Blue-Yonder"
+      ]
+    },
+    {
+      "id": "marta-2026-09-05-03",
+      "pillar": "mejora",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Gartner surveyed 101 CPOs in February. Their AI productivity gains stop at the individual's desk and go no further.",
+        "Global AI spend hits $2.52 trillion this year. Most procurement teams can't see where their own company's share of it went.",
+        "Everyone can point to a GenAI win on their own task list. Gartner's own survey says almost none of it reaches the P&L."
+      ],
+      "caption": "Gartner surveyed 101 chief procurement officers between January and February 2026. The finding: individual productivity gains from GenAI are real, but they stay individual - they don't turn into team or enterprise-level results without deliberate work.\n\nGartner's Fareen Mehrzai put it directly: without intentional redesign of roles and processes, those gains \"remain confined to the individual level.\" Katarzyna Fonteyn named the structural cause - AI capabilities are now purchased across the enterprise, often without a unified view of how those investments relate to each other.\n\nThat's why Gartner's August 2026 recommendation to CPOs isn't \"buy less AI.\" It's treat AI as its own category management domain, the same discipline applied to raw materials or logistics, instead of folding it into a generic technology line.\n\nWorth the attention: worldwide AI spending is forecast to hit $2.52 trillion in 2026, up 44% year over year. A category that size without a category owner isn't a rounding error.\n\nCan you name every AI contract touching your supply chain across departments right now, or does procurement only see the ones that came through its own process?",
+      "hashtags": "#Procurement #SupplyChain #AIStrategy #CategoryManagement #CPO",
+      "imageIdea": "A procurement office desk at dusk, a large corkboard mounted on the wall covered with dozens of small vendor and contract cards connected by red string in a tangled web, a laptop screen glowing softly out of focus nearby showing an abstract blurred spend-dashboard chart, a single desk lamp casting warm focused light against cool blue ambient office light, shallow depth of field, editorial corporate-strategy photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Procurement & AI",
+        "title": [
+          "AI spend hit $2.52T.",
+          "Few CPOs can map it."
+        ],
+        "big": "$2.52T"
+      },
+      "sources": [
+        "Gartner, Gartner Says Chief Procurement Officers Should Treat AI as a Dedicated Category Management Domain — https://www.gartner.com/en/newsroom/press-releases/2026-08-18-gartner-says-chief-procurement-officers-should-treat-ai-as-a-dedicated-category-management-domain",
+        "Consumer Goods Technology, Gartner Recommends CPOs Treat AI as a Dedicated Category Management Domain — https://consumergoods.com/gartner-recommends-cpos-treat-ai-dedicated-category-management-domain",
+        "Procurement Magazine, Gartner: CPOs Must Manage AI, not Just Suppliers — https://procurementmag.com/news/gartner-cpos-must-manage-ai-not-just-suppliers",
+        "Gartner, Gartner Says Worldwide AI Spending Will Total $2.5 Trillion in 2026 — https://www.gartner.com/en/newsroom/press-releases/2026-1-15-gartner-says-worldwide-ai-spending-will-total-2-point-5-trillion-dollars-in-2026"
+      ]
+    },
+    {
+      "id": "marta-2026-09-05-04",
+      "pillar": "retrabajo",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "The FDA and EMA published ten rules for AI in drug development on January 14. Most quality teams still can't tell you which of their AI tools maps to which one.",
+        "Ten principles, one shared framework, zero binding force - and the FDA's first AI warning letter three months later showed exactly what ignoring them costs.",
+        "Principle six is data governance and documentation. It's also the line most AI pilots in pharma quietly skip."
+      ],
+      "caption": "On January 14, 2026, the FDA and EMA jointly published ten Guiding Principles for Good AI Practice in Drug Development - covering nonclinical, clinical, post-market, and manufacturing uses of AI across both agencies for the first time.\n\nThey're not binding. They're the shared framework both agencies say future AI-specific guidance will be built on. Three worth checking against what your team is actually running:\n→ Data governance and documentation - can you trace every input feeding the model back to its source\n→ Life-cycle management - who reviews model performance six months after go-live, not just at validation\n→ Human oversight tied to context of use - a named reviewer of record before AI output enters a GxP record\n\nThree months after the principles published, the FDA's first AI-specific warning letter cited exactly that last gap: a firm let an AI agent draft specifications and master production records without the review the principles call for.\n\nThe framework existed before the citation did. The gap wasn't the technology - it was nobody checking their AI use against principles that were already public.\n\nHas your quality unit mapped a single AI tool it uses against these ten principles, or are they still sitting in a compliance folder nobody opened?",
+      "hashtags": "#Pharma #GMP #PharmaSupplyChain #Compliance #AI",
+      "imageIdea": "A GxP quality office with a stainless steel table, a thick regulatory binder open to a page showing ten faintly blurred numbered principles, a magnifying glass resting on the page, a pharmaceutical batch record folder stacked beside it with blurred illegible text, cool clinical overhead lighting mixed with a warm desk lamp, shallow depth of field, editorial pharma-industry photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma & AI Compliance",
+        "title": [
+          "Ten principles, January 14.",
+          "One warning letter, April."
+        ],
+        "big": "10"
+      },
+      "sources": [
+        "EMA / FDA, Guiding Principles for Good AI Practice in Drug Development (Jan 14, 2026) — https://www.ema.europa.eu/en/documents/other/guiding-principles-good-ai-practice-drug-development_en.pdf",
+        "Applied Clinical Trials, FDA and EMA Align on Ten Principles to Guide Artificial Intelligence Use in Drug Development — https://www.appliedclinicaltrialsonline.com/view/fda-ema-align-ten-principles-artificial-intelligence-use-drug-development",
+        "McGuireWoods, FDA and EMA Provide Guiding Principles for AI in Drug Development — https://www.mcguirewoods.com/client-resources/alerts/2026/1/fda-and-ema-provide-guiding-principles-for-ai-in-drug-development/",
+        "FDA, Warning Letter - Purolea Cosmetics Lab, 722591, 04/02/2026 — https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/purolea-cosmetics-lab-722591-04022026"
+      ]
+    },
+    {
+      "id": "marta-2026-09-05-05",
+      "pillar": "auto",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "More than a third of manufacturing executives call the skills gap their top concern. Deloitte's fix isn't hiring faster.",
+        "3.8 million manufacturing jobs need filling by 2033. The knowledge walking out the door with retiring operators won't wait that long.",
+        "The line still runs the way it did ten years ago because the person who knows why never wrote it down."
+      ],
+      "caption": "Deloitte surveyed 600 manufacturing executives for its Smart Manufacturing and Operations study. More than a third named equipping workers with the skills to run smart manufacturing as their top concern - ahead of budget, ahead of technology selection.\n\nThe scale of the problem: Deloitte's separate workforce research puts the gap at up to 3.8 million net new manufacturing employees needed by 2033. You cannot hire your way out of that fast enough, and the veteran operators retiring in the meantime take undocumented know-how with them - the adjustment nobody wrote into the manual, the sound that means the bearing's going before the sensor flags it.\n\nDeloitte's own recommendation isn't to automate the worker out. It's to use agentic AI to capture that tacit knowledge - interviewing, observing, and converting it into standard operating procedures before the person who holds it leaves. More than 81% of manufacturing task hours are still expected to stay human-driven even as this scales.\n\nThe skills gap isn't only a hiring problem. It's a knowledge-capture deadline with a name attached to it.\n\nWhich operator on your floor retires next, and is their know-how written down anywhere but their own head?",
+      "hashtags": "#Manufacturing #WorkforceDevelopment #AgenticAI #Industry40 #ContinuousImprovement",
+      "imageIdea": "A dim factory floor near end of shift, a well-worn operator's clipboard and a pair of work gloves resting on a control panel beside an aging CNC machine, a translucent holographic interface faintly overlaid above the panel suggesting captured knowledge being converted into a digital checklist, warm work-lamp light mixing with cool ambient factory light, dust motes visible in the air, shallow depth of field, cinematic industrial photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Manufacturing & Workforce",
+        "title": [
+          "The skills gap isn't new.",
+          "The fix might be."
+        ],
+        "big": "3.8M"
+      },
+      "sources": [
+        "Deloitte Insights, 2025 Smart Manufacturing and Operations Survey: Navigating challenges to implementation — https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/2025-smart-manufacturing-survey.html",
+        "Deloitte Insights, 2026 Manufacturing Industry Outlook — https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/manufacturing-industry-outlook.html",
+        "Manufacturing Digital, Agentic AI & Talent Gaps: Deloitte on Manufacturing in 2026 — https://manufacturingdigital.com/news/agentic-ai-talent-gaps-deloitte-on-manufacturing-in-2026",
+        "AMTEC, U.S. Manufacturing Workforce Data & Benchmarks (2025–2026) — https://www.amtec.us.com/blog/manufacturing-workforce-report"
+      ]
     }
   ]
 }
