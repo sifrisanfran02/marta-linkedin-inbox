@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24",
+  "generatedAt": "2026-09-12T00:00:00Z",
   "drafts": [
     {
       "id": "marta-2026-08-14-01",
@@ -525,6 +525,141 @@
         "Deloitte Insights, 2026 Manufacturing Industry Outlook — https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/manufacturing-industry-outlook.html",
         "Manufacturing Digital, Agentic AI & Talent Gaps: Deloitte on Manufacturing in 2026 — https://manufacturingdigital.com/news/agentic-ai-talent-gaps-deloitte-on-manufacturing-in-2026",
         "AMTEC, U.S. Manufacturing Workforce Data & Benchmarks (2025–2026) — https://www.amtec.us.com/blog/manufacturing-workforce-report"
+      ]
+    },
+    {
+      "id": "marta-2026-09-12-01",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Job postings for supply chain roles requiring AI skills grew 387% in three years. Your headcount didn't.",
+        "You can't hire your way out of this gap. Gartner just proved it across 35 million job postings.",
+        "Everyone's buying AI licenses this year. Almost nobody can staff the seats in front of them."
+      ],
+      "caption": "Job postings for supply chain roles requiring AI skills grew 387% between Q1 2023 and Q1 2026. Gartner tracked that across 35 million job postings, nearly 600,000 of them in supply chain alone.\n\nHere's the part that should worry you more than the growth rate: 58% of that demand sits at mid-senior level, not entry level. You're not short on junior analysts who can prompt a chatbot. You're short on planners who already understand your S&OP cycle and can also tell you when a model's output is wrong.\n\nThat combination doesn't show up on LinkedIn in bulk. It gets built, slowly, inside companies willing to put their best planners on real AI projects instead of a two-day training course.\n\nThree moves that actually close the gap:\n→ Rotate your strongest planner onto the pilot - don't hire around them\n→ Pay for the certification after the project, not before it\n→ Score the planner on their judgment of model output, not their tool fluency\n\nWhere is your organization actually losing this race - hiring, training, or retention?",
+      "hashtags": "#SupplyChain #AI #TalentStrategy #DemandPlanning #WorkforceDevelopment",
+      "imageIdea": "An empty ergonomic chair pushed in at a supply chain planning workstation with three monitors glowing with abstract, blurred, illegible dashboard charts and network graphs, dim open-plan office at dusk visible in soft bokeh behind, a single warm desk lamp casting a pool of light on an empty desk mat, cinematic side lighting, shallow depth of field, editorial corporate photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "AI Talent Gap",
+        "title": [
+          "387% more demand.",
+          "Nobody to hire."
+        ],
+        "big": "387%"
+      },
+      "sources": [
+        "Gartner Says There is an Outsized Need for AI Talent in Supply Chain (June 15, 2026) — https://www.gartner.com/en/newsroom/press-releases/2026-06-15-gartner-says-there-is-an-outsized-need-for-ai-talent-in-supply-chain",
+        "Supply chain companies are scrambling to find workers with AI skills — Modern Materials Handling — https://www.mmh.com/article/supply-chain-ai-hiring-jumped-387-percent",
+        "Demand for Supply Chain Roles Requiring AI Skills Outpaces Overall Labor Market Growth — Supply & Demand Chain Executive — https://www.sdcexec.com/software-technology/ai-ar/news/22968882/gartner-inc-demand-for-supply-chain-roles-requiring-ai-skills-outpaces-overall-labor-market-growth"
+      ]
+    },
+    {
+      "id": "marta-2026-09-12-02",
+      "pillar": "ml",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "BCG surveyed 181 global supply chain leaders. The best forecasters didn't have better AI - they had better planning before the AI arrived.",
+        "Same forecasting tools, 25-point accuracy gap. The difference wasn't the model.",
+        "Layer AI onto a broken planning process and BCG's data shows single-digit gains - sometimes negative, once you count the change management bill."
+      ],
+      "caption": "BCG asked 181 global supply chain leaders where their forecast accuracy gains actually came from. The answer wasn't the AI vendor.\n\nCompanies with higher planning maturity report 25% better forecast accuracy than low-maturity peers - and both groups have access to the same forecasting tools. The AI isn't the differentiator. What it sits on top of is.\n\nBCG names four things that have to line up before AI adds anything real:\n→ The decision the forecast is actually meant to support\n→ The process and operating model that governs that decision\n→ A data foundation people trust without double-checking it\n→ The technology - which comes last, not first\n\nSkip straight to the technology and BCG's data shows single-digit productivity gains, sometimes negative once implementation and change management costs are counted. Consumer companies lead on planning maturity today. Healthcare and industrial goods - sectors under real cost and compliance pressure - lag furthest behind.\n\nIf your forecast accuracy hasn't moved despite a new planning tool, which of those four is still broken - decisions, process, data, or tech?",
+      "hashtags": "#DemandPlanning #SupplyChain #AI #SOP #Forecasting",
+      "imageIdea": "An overhead photograph of four translucent stacked glass panels forming a pyramid on a dark studio surface, the bottom panel etched with blurred flowchart lines, the next with faint abstract process-diagram shapes, the next with a shimmering data-stream texture, and the top panel glowing faintly with abstract neural-node patterns, cool blue cinematic lighting, shallow depth of field, high-end editorial tech photography, no legible text, no people, no logos.",
+      "cover": {
+        "kicker": "Demand Planning",
+        "title": [
+          "Maturity beats the model.",
+          "BCG surveyed 181 leaders."
+        ],
+        "big": "25%"
+      },
+      "sources": [
+        "Supply Chain Planning 2026: Why AI Alone Isn't Enough — BCG — https://www.bcg.com/publications/2026/supply-chain-planning-why-ai-alone-isnt-enough",
+        "Supply Chain Planning 2026 report (PDF) — BCG — https://web-assets.bcg.com/86/2d/bc2246f04e3ab0f7631727e3fff8/supply-chain-planning-2026-report-feb-2026-edit.pdf",
+        "Why AI Alone is Failing to Fix the Supply Chain Issue — Procurement Magazine — https://procurementmag.com/news/ai-alone-failing-fix-supply-chain"
+      ]
+    },
+    {
+      "id": "marta-2026-09-12-03",
+      "pillar": "auto",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "A single idle automotive line costs $2.3 million an hour. Most plants still find out about the failure after the line has already stopped.",
+        "Downtime cost 8% of revenue in 2019. Siemens says it's 11% now. The machines didn't get less reliable - the cost of stopping them went up.",
+        "Siemens put a number on the thing every plant manager already feels: $1.4 trillion lost to unplanned downtime last year, across the world's 500 biggest companies."
+      ],
+      "caption": "Siemens put a hard number on the thing every plant manager already feels: unplanned downtime now eats 11% of total revenue across the world's 500 largest companies, up from 8% in 2019. That's $1.4 trillion a year. For the average Fortune 500 company, $2.8 billion.\n\nIn automotive, an idle line costs $2.3 million an hour - $600 a second. Most of that cost isn't the repair. It's the order that ships late because nobody saw the failure coming.\n\nMcKinsey's number on the fix: predictive maintenance built on vibration, temperature and current-draw sensors feeding a failure model can cut downtime by up to 50% and maintenance spend by 10% to 40%. The sensors aren't new. What's changed is how far in advance the model flags a failing bearing or a drifting motor - weeks now, not hours.\n\nThe plants still losing 11% of revenue to downtime aren't behind on AI. They're behind on wiring the machine to a model in the first place.\n\nIs your maintenance team reacting to alarms, or reading a failure forecast?",
+      "hashtags": "#Manufacturing #PredictiveMaintenance #AI #Industry40 #OperationalExcellence",
+      "imageIdea": "A close-up photorealistic 3D render of an industrial motor and bearing assembly on a factory production line, small wireless vibration sensors clipped onto the housing with faint glowing blue data-transmission lines rising into an abstract blurred holographic waveform above, dim factory environment with dramatic directional light beams cutting through dust, shallow depth of field, no legible gauges or text, no people, no logos.",
+      "cover": {
+        "kicker": "Manufacturing",
+        "title": [
+          "Downtime now costs",
+          "11% of revenue."
+        ],
+        "big": "$1.4T"
+      },
+      "sources": [
+        "The $1.4 Trillion Problem: How Unplanned OT Downtime Is Silently Draining Industrial Profits — Acronis, citing Siemens' True Cost of Downtime report — https://www.acronis.com/en/blog/posts/how-unplanned-ot-downtime-is-silently-draining-industrial-profits/",
+        "The True Cost of Downtime 2024: A Comprehensive Analysis — AEMT — https://www.theaemt.com/resource/the-true-cost-of-downtime-2024-a-comprehensive-analysis.html"
+      ]
+    },
+    {
+      "id": "marta-2026-09-12-04",
+      "pillar": "mejora",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "83% of supply chains are piloting AI in analytics. Almost none of them have rebuilt the operating model underneath it.",
+        "Cost efficiency has been the top supply chain priority for three years running. The pilots meant to deliver it are still pilots.",
+        "Four out of five supply chain leaders have AI running somewhere in planning. Ask who owns the outcome, and the room goes quiet."
+      ],
+      "caption": "Hackett Group's 2026 Supply Chain Key Issues Study asked where AI adoption actually stands. The numbers look like success: 83% of organizations have deployed or are piloting AI in supply chain intelligence and analytics, 74% in S&OP and integrated business planning, 72% in advanced planning and scheduling.\n\nThen Hackett asks the harder question - not how many pilots, but how many turned into a working operating model - and the numbers drop off a cliff. Most companies are running a portfolio of disconnected use cases, each with its own owner, its own data prep, its own definition of done.\n\nCost efficiency has been the top priority for supply chain leaders for three years straight, driven by tariffs, geopolitical risk and inflation. Pilots don't move that number. A rebuilt planning process does.\n\nThe gap Hackett flags isn't a technology gap anymore. It's an operating-model gap, and it's becoming a competitive one - the companies that connect their pilots into one governed process are pulling ahead of the ones still counting use cases.\n\nHow many separate AI pilots is your planning team running right now, and who owns turning them into one process?",
+      "hashtags": "#SupplyChain #AI #OperatingModel #ContinuousImprovement #SOP",
+      "imageIdea": "A wide architectural photograph of a modern industrial control room with multiple large wall-mounted screens, each showing a different abstract blurred dashboard in a visually inconsistent style, one screen dark and powered off, cool industrial lighting, visible dust particles suspended in a light beam, editorial corporate-operations photography, no legible text or numbers, no people, no logos.",
+      "cover": {
+        "kicker": "Operating Model",
+        "title": [
+          "83% pilot AI.",
+          "Few scale it."
+        ],
+        "big": "83%"
+      },
+      "sources": [
+        "The Hackett Group: Supply Chain AI Adoption Becomes Pervasive as Cost and Modernization Pressures Intensify — https://www.thehackettgroup.com/the-hackett-group-supply-chain-ai-adoption-becomes-pervasive-as-cost-and-modernization-pressures-intensify/",
+        "2026 Supply Chain Key Issues — The Hackett Group — https://www.thehackettgroup.com/insights/2026-supply-chain-key-issues-2603/",
+        "Hackett Group: 83% of supply chains trial AI analytics — StockTitan — https://www.stocktitan.net/news/HCKT/the-hackett-group-supply-chain-ai-adoption-becomes-pervasive-as-cost-f4rpa3zpoqrc.html"
+      ]
+    },
+    {
+      "id": "marta-2026-09-12-05",
+      "pillar": "retrabajo",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "The FDA just gave small pharmacies two more years on drug traceability. Read the fine print and it's a deadline in disguise, not relief.",
+        "Every DSCSA data gap that can't reconcile automatically becomes a hold, a call, or a destroyed batch. The FDA is now measuring how often that happens.",
+        "Counterfeit drugs cost the industry up to $400 billion a year. The traceability system built to stop them still can't talk to itself."
+      ],
+      "caption": "The FDA just extended the DSCSA exemption for small dispensers - pharmacies with 25 or fewer pharmacists and technicians - through November 27, 2027. On paper, that's relief. Read the fine print and it's a deadline in disguise.\n\nThe extension exists so the FDA can run a small dispenser assessment survey, due September 22, 2026, to measure exactly how big the gap is in exchanging package-level transaction data across trading partners. Translation: regulators already know most small pharmacies can't do full electronic track-and-trace yet, and they're now quantifying by how much.\n\nEvery gap in that data chain becomes a manual exception downstream - a hold at receiving, a call to the wholesaler, sometimes a destroyed batch - while the industry absorbs an estimated $200 to $400 billion a year in counterfeit-drug exposure that traceability is supposed to prevent.\n\nAI's real job here isn't flagging fraud after the fact. It's reading the exception queue in real time, catching missing transaction data before the product reaches the shelf, not after.\n\nIf the FDA surveyed your trading partners today, how many of your transaction records would fail to reconcile automatically?",
+      "hashtags": "#Pharma #DSCSA #SupplyChain #AI #Compliance #PharmaceuticalManufacturing",
+      "imageIdea": "A close-up of a handheld barcode scanner resting on a stainless steel pharmacy dispensing counter, its light beam illuminating a blurred serialized pharmaceutical carton, a faint red exception-alert glow pulsing from a small screen on the scanner, shallow depth of field, cool clinical fluorescent lighting, blurred illegible barcodes and lot-number text on the carton, editorial pharmaceutical supply-chain photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma Compliance",
+        "title": [
+          "Two more years.",
+          "Same data gap."
+        ],
+        "big": "2027"
+      },
+      "sources": [
+        "FDA Extends DSCSA Exemption For Small Pharmacies Through November 27, 2027 — Mondaq / Buchanan Ingersoll & Rooney — https://www.mondaq.com/unitedstates/healthcare/1831386/fda-extends-dscsa-exemption-for-small-pharmacies-through-november-27-2027-what-pharmacies-need-to-know",
+        "A Refill on Relief: FDA Extends DSCSA Exemption for Small Dispensers as Assessment Begins — ArentFox Schiff — https://www.afslaw.com/perspectives/alerts/refill-relief-fda-extends-dscsa-exemption-small-dispensers-assessment-begins",
+        "FDA survey on DSCSA electronic tracking — NCPA — https://ncpa.org/newsroom/qam/2026/09/01/fda-survey-dscsa-electronic-tracking",
+        "FDA Launches Small Dispenser Assessment, Grants DSCSA Exemptions — Pharmaceutical Commerce — https://www.pharmaceuticalcommerce.com/view/fda-launches-small-dispenser-assessment-grants-dscsa-exemptions"
       ]
     }
   ]
