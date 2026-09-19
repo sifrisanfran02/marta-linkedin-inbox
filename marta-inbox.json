@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T00:00:00Z",
+  "generatedAt": "2026-09-19T00:00:00Z",
   "drafts": [
     {
       "id": "marta-2026-08-14-01",
@@ -660,6 +660,139 @@
         "A Refill on Relief: FDA Extends DSCSA Exemption for Small Dispensers as Assessment Begins — ArentFox Schiff — https://www.afslaw.com/perspectives/alerts/refill-relief-fda-extends-dscsa-exemption-small-dispensers-assessment-begins",
         "FDA survey on DSCSA electronic tracking — NCPA — https://ncpa.org/newsroom/qam/2026/09/01/fda-survey-dscsa-electronic-tracking",
         "FDA Launches Small Dispenser Assessment, Grants DSCSA Exemptions — Pharmaceutical Commerce — https://www.pharmaceuticalcommerce.com/view/fda-launches-small-dispenser-assessment-grants-dscsa-exemptions"
+      ]
+    },
+    {
+      "id": "marta-2026-09-19-01",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "95% of enterprise generative AI pilots show no measurable P&L return, per MIT. Supply chain found the same number, for a narrower reason.",
+        "The agent could forecast, allocate, negotiate, and schedule. Nobody told it which one it actually owned.",
+        "Everyone blames the model when a pilot stalls. The postmortems say the model was rarely the problem."
+      ],
+      "caption": "95% of enterprise generative AI pilots show no measurable P&L return. That's MIT's Project NANDA, after studying 300 deployments and 52 executive interviews this year. The model is rarely why.\n\nproject44 found the same failure rate inside supply chain specifically, and traced it to a narrower cause: agents built without domain rules. They can't tell detention from demurrage, or a real stockout from a data lag.\n\nThe pattern repeats across the failed pilots:\n- One agent asked to forecast, allocate, negotiate, and schedule at once.\n- No named owner for any single decision.\n- No confidence threshold that triggers a human review.\n- No escalation path when the agent is wrong.\n\nAmbiguity, not intelligence, was the bottleneck.\n\nGartner's latest Supply Chain Top 25 read says the same thing a different way: AI is now expected. The differentiator is which decisions an organization is willing to let it own.\n\nBefore your next pilot, can you name the exact decision it owns, who overrides it, and at what confidence level?",
+      "hashtags": "#SupplyChain #AgenticAI #AI #SupplyChainManagement #OperationsStrategy",
+      "imageIdea": "A dim supply chain control tower at night, a wall of monitors showing blurred abstract workflow diagrams with tangled glowing arrows converging into a single overloaded node, one thin cable pulled loose and dangling unattached, cool blue and teal ambient light, shallow depth of field, cinematic tech editorial photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "AI Strategy",
+        "title": [
+          "The model wasn't",
+          "the problem."
+        ],
+        "big": "95%"
+      },
+      "sources": [
+        "MIT report: 95% of enterprise AI pilots fail to deliver measurable ROI — Healthcare IT News — https://www.healthcareitnews.com/news/mit-95-enterprise-ai-pilots-fail-deliver-measurable-roi",
+        "Why 95% of AI Agent Pilots Fail in Supply Chains — project44 — https://www.project44.com/blog/why-95-percent-of-ai-agent-pilots-fail-in-supply-chains/",
+        "Gartner Top 25: AI is expected. Autonomous workforces are the new differentiator — Supply Chain Management Review — https://www.scmr.com/article/gartner-top-25-ai-is-expected-autonomous-workforces-are-the-new-differentiator"
+      ]
+    },
+    {
+      "id": "marta-2026-09-19-02",
+      "pillar": "ml",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Half of the manual overrides planners make on AI forecasts make the forecast worse, not better.",
+        "The forecast wasn't wrong. The override was.",
+        "Better forecasts don't start with a better algorithm. They start with an explanation a planner can argue with."
+      ],
+      "caption": "A meta-analysis of roughly 147,000 forecast adjustments, echoed by MIT CTL's own research on override size, found that about half of manual overrides make the forecast worse, not better.\n\nThe reason isn't stubbornness. It's information. When the model can't say why it moved a number - a promotion, a weather shift, a competitor's stockout - the planner's gut wins the argument, and the override sticks even when it shouldn't.\n\nKinaxis makes the same point from the vendor side: explainability, not raw accuracy, is what decides whether a forecast actually gets used in the S&OP room.\n\nThree changes that shift override behavior:\n- Show the driver behind every material forecast move, not just the new number.\n- Track override outcomes over time, not just override rates - some overrides are still worth making.\n- Route only low-confidence forecasts to a human, and state why the confidence is low.\n\nDo you know whether last month's manual overrides in your demand review made the forecast better or worse?",
+      "hashtags": "#DemandPlanning #SupplyChain #MachineLearning #Forecasting #SalesAndOperationsPlanning",
+      "imageIdea": "A demand planning desk at dusk, a hand resting near a keyboard beside a monitor showing a blurred abstract forecast line chart with a highlighted deviation point, sticky notes with illegible handwriting on a glass wall behind, warm desk-lamp light mixing with cool screen glow, shallow depth of field, editorial operations photography, no faces, no logos, no legible text.",
+      "cover": {
+        "kicker": "Demand Planning",
+        "title": [
+          "Half the overrides",
+          "made it worse."
+        ],
+        "big": "50%"
+      },
+      "sources": [
+        "Effect of Override Size on Forecast Value Add — MIT Center for Transportation & Logistics — https://ctl.mit.edu/sites/ctl.mit.edu/files/theses/38385255-Effect%20of%20Override%20Size%20on%20Forecast%20Value%20Add_Baker.pdf",
+        "Exploring AI-enabled forecasting? Here are 3 keys to maximizing its impact — Kinaxis — https://www.kinaxis.com/en/blog/exploring-ai-enabled-forecasting-here-are-3-keys-maximizing-its-impact",
+        "Gartner Identifies the Top Four AI Trends Transforming Warehousing for Supply Chain Leaders — Gartner — https://www.gartner.com/en/newsroom/press-releases/2026-09-16-gartner-identifies-the-top-4-ai-trends-transforming-warehousing-for-supply-chain-leaders"
+      ]
+    },
+    {
+      "id": "marta-2026-09-19-03",
+      "pillar": "auto",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "The warehouse robot didn't get smarter this year. The lease did.",
+        "Robots have been in the warehouse for a decade. The invoice for them just changed.",
+        "Automation stalled for years on one line item: capex. That line item just moved."
+      ],
+      "caption": "The warehouse robot didn't get smarter this year. The lease did.\n\nGartner's September 16 warehousing report names three forces pushing automation past the pilot stage: a labor market that no longer supplies the headcount, autonomy technology that finally works outside a demo, and a capital model that no longer needs a seven-figure check upfront.\n\nThat third force is the one worth watching. Robotics-as-a-service contracts now price mobile picking fleets by the pick, not by the unit purchased, putting automation inside the budget of warehouses that could never clear a capex committee before.\n\nGartner groups this year's shift into four categories: sharper optimization AI, generative AI running on the floor, semiautonomous agents that suggest before they act, and physical AI agents pairing robotics with real-time sensing.\n\nThe fastest movers on the floor right now aren't running the newest robot. They rewrote the lease.\n\nWhat's actually stopping your next automation project - the technology, or the finance committee?",
+      "hashtags": "#WarehouseAutomation #SupplyChain #Robotics #Manufacturing #Logistics",
+      "imageIdea": "An autonomous mobile robot mid-motion between tall pallet racks in a dim warehouse aisle, motion blur on its wheels and a soft light trail behind it, warm overhead sodium lighting mixing with cool blue robot indicator light, dust particles visible in the light beam, cinematic depth of field, editorial industrial photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Automation",
+        "title": [
+          "Robots didn't change.",
+          "The invoice did."
+        ],
+        "big": "$0 down"
+      },
+      "sources": [
+        "Gartner Identifies the Top Four AI Trends Transforming Warehousing for Supply Chain Leaders — Gartner — https://www.gartner.com/en/newsroom/press-releases/2026-09-16-gartner-identifies-the-top-4-ai-trends-transforming-warehousing-for-supply-chain-leaders",
+        "Robotics-as-a-Service (RaaS): When Subscription Automation Beats CapEx — Raymond Handling Concepts — https://www.raymondhc.com/blog/2026/robotics-as-a-service"
+      ]
+    },
+    {
+      "id": "marta-2026-09-19-04",
+      "pillar": "mejora",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "The junior planner you didn't hire this year costs 15% more to replace in 2030.",
+        "Freezing entry-level hiring for AI feels efficient this quarter. Gartner already priced the bill for 2030.",
+        "Cutting entry-level roles for AI isn't a headcount decision. It's a five-year pricing decision."
+      ],
+      "caption": "Gartner surveyed 509 supply chain leaders between July and October 2025. 55% expect entry-level hiring to decline because of agentic AI.\n\nThe follow-up finding is the one that should worry finance, not just HR: organizations that pause entry-level hiring now will pay premiums above 15% for early-career talent by 2030, once the pipeline gap shows up as a shortage.\n\nSimon Bailey, VP Analyst at Gartner, put it plainly: AI is not a plug-and-play replacement for people.\n\nThe mistake isn't adopting AI in planning or procurement. It's using that adoption to justify skipping the junior hires who would otherwise grow into the people who catch what the AI misses - the planner who knows the customer always orders early before a holiday, the buyer who remembers why that vendor failed an audit in 2022.\n\nWhere does your organization actually stand: replacing entry-level roles with AI, or redesigning what an entry-level planner spends their first year doing?",
+      "hashtags": "#SupplyChain #TalentStrategy #WorkforcePlanning #AI #FutureOfWork",
+      "imageIdea": "An empty desk in an open-plan supply chain operations office, chair tucked in, an unused visitor badge and lanyard resting on the desk, a large control-tower screen glowing softly in the blurred background with abstract dashboard shapes and a faint world map of light dots, cool corporate daylight through blinds, documentary-style editorial photography, shallow depth of field, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Talent & Workforce",
+        "title": [
+          "Skip the junior hire.",
+          "Pay 15% more in 2030."
+        ],
+        "big": "15%"
+      },
+      "sources": [
+        "Gartner Predicts Supply Chain Organizations Pausing Entry-Level Hiring for AI Will Face Higher Costs by 2030 — Gartner — https://www.gartner.com/en/newsroom/press-releases/2026-05-05-gartner-predicts-supply-chain-organizations-pausing-entry-level-hiring-for-ai-will-face-higher-costs-by-2030",
+        "Gartner Warns AI-Driven Hiring Freeze Could Backfire by 2030 — Supply Chain 24/7 — https://www.supplychain247.com/article/gartner-ai-entry-level-hiring-supply-chain-talent-shortage"
+      ]
+    },
+    {
+      "id": "marta-2026-09-19-05",
+      "pillar": "retrabajo",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Copilot can draft the deviation report in minutes. The FDA and EMA still want a qualified person to own it.",
+        "The FDA and EMA just agreed on ten AI principles. Principle one is the one quality teams keep skipping.",
+        "Generative AI writes a faster deviation report. It still can't sign it."
+      ],
+      "caption": "On January 14, 2026, the FDA and EMA jointly published ten guiding principles for AI across the medicines lifecycle - the first time both agencies aligned on one document covering research through manufacturing and post-market safety.\n\nThe throughline across all ten: AI can support a judgment call. It cannot make one. Proportional validation, a defined context of use, and continuous monitoring for model drift are now the expectation, not a nice-to-have.\n\nMeanwhile, quality teams are already using generative tools like Copilot to turn rough notes and batch-record excerpts into investigation reports and CAPA drafts in minutes instead of days.\n\nThat speed only survives an inspection if the audit trail shows a qualified person reviewed the reasoning behind the draft, not just approved the final text.\n\nThe gap between those two things - a fast draft and a defensible review - is where most AI-assisted quality systems will actually get tested.\n\nIf an inspector asked to see the human review behind your last AI-assisted deviation report, could you produce it in under five minutes?",
+      "hashtags": "#Pharma #GxP #QualityAssurance #AI #PharmaceuticalManufacturing",
+      "imageIdea": "A GMP quality office desk with a printed batch-record page bearing a red review stamp mid-press, a tablet beside it displaying a blurred abstract investigation-report draft, a pen resting next to a signature line left intentionally blank, cool clinical overhead lighting, shallow depth of field, editorial pharmaceutical-industry photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma & Quality",
+        "title": [
+          "AI drafts it.",
+          "A name still signs it."
+        ],
+        "big": "10"
+      },
+      "sources": [
+        "FDA and EMA Align on Ten Principles to Guide Artificial Intelligence Use in Drug Development — Applied Clinical Trials Online — https://www.appliedclinicaltrialsonline.com/view/fda-ema-align-ten-principles-artificial-intelligence-use-drug-development",
+        "FDA and EMA Provide Guiding Principles for AI in Drug Development — McGuireWoods — https://www.mcguirewoods.com/client-resources/alerts/2026/1/fda-and-ema-provide-guiding-principles-for-ai-in-drug-development/",
+        "How Generative AI is Transforming Deviation Management: Lessons from Integrating Microsoft Copilot in Pharma Quality Systems — ISPE Pharmaceutical Engineering — https://ispe.org/pharmaceutical-engineering/ispeak/how-generative-ai-transforming-deviation-management-lessons"
       ]
     }
   ]
