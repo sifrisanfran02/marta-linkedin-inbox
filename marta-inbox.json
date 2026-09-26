@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T00:00:00Z",
+  "generatedAt": "2026-09-26T00:00:00Z",
   "drafts": [
     {
       "id": "marta-2026-08-14-01",
@@ -793,6 +793,144 @@
         "FDA and EMA Align on Ten Principles to Guide Artificial Intelligence Use in Drug Development — Applied Clinical Trials Online — https://www.appliedclinicaltrialsonline.com/view/fda-ema-align-ten-principles-artificial-intelligence-use-drug-development",
         "FDA and EMA Provide Guiding Principles for AI in Drug Development — McGuireWoods — https://www.mcguirewoods.com/client-resources/alerts/2026/1/fda-and-ema-provide-guiding-principles-for-ai-in-drug-development/",
         "How Generative AI is Transforming Deviation Management: Lessons from Integrating Microsoft Copilot in Pharma Quality Systems — ISPE Pharmaceutical Engineering — https://ispe.org/pharmaceutical-engineering/ispeak/how-generative-ai-transforming-deviation-management-lessons"
+      ]
+    },
+    {
+      "id": "marta-2026-09-26-01",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "83% of supply chain leaders have already spent millions automating planning. Gartner says only 5% will let AI make even one in ten of those decisions by 2030.",
+        "The budget for autonomous planning cleared committee years ago. Gartner says the authority to act on its own still won't clear, even by 2030.",
+        "You can buy autonomous planning this quarter. Most companies still won't be running it in 2030."
+      ],
+      "caption": "Gartner surveyed supply chain leaders on autonomous planning between November and December 2025. 83% had already spent at least $3 million on it. By 2030, Gartner predicts, only 5% of organizations will let it make even one in ten planning decisions.\n\nThe gap isn't the technology. It's what a decision actually requires before anyone hands it off.\n\n51% of the leaders spending on automation had already committed $3 million to $10 million - real budget, not a pilot line item. The prediction holds anyway, because most planning decisions still need a person behind them.\n\nThe reason splits by decision type:\n→ Routine calls - replenishment quantities, order prioritization - already have real automation potential\n→ Strategic calls - network design, inventory policy - still need judgment no model was trained on\n→ Most companies haven't sorted decisions into either bucket, so AI gets applied evenly instead of where it works\n\nBuse Aras, Director Analyst at Gartner, put it plainly: spending millions expands technical capability, but investment alone doesn't create AI readiness. Skip the decision, talent, and technology foundations, and you fund technology that never touches the decisions that matter most.\n\nWhich of your planning decisions is an actual candidate for automation this year - and which one are you funding out of habit?",
+      "hashtags": "#SupplyChain #AIStrategy #SupplyChainPlanning #AutonomousPlanning #DigitalTransformation",
+      "imageIdea": "A supply chain planning control room at dusk, a wide desk with two chairs - one occupied by a tall stack of paper decision folders lit by a warm desk lamp, the other empty in front of a bank of monitors showing an abstract blurred flowing network graph frozen mid-motion, a thin velvet rope barrier stretched between the two chairs suggesting a boundary not yet crossed, cool blue ambient light, shallow depth of field, editorial corporate-strategy photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "AI Strategy",
+        "title": [
+          "83% funded it.",
+          "5% will trust it."
+        ],
+        "big": "5%"
+      },
+      "sources": [
+        "Gartner, Gartner Predicts Only 5% of Organizations Will Make At Least 10% of Supply Chain Planning Decisions Autonomously by 2030 — https://www.gartner.com/en/newsroom/press-releases/2026-09-24-gartner-predicts-only-5-percent-of-organizations-will-make-at-least-10-percent-of-supply-chain-planning-decisions-autonomously-by-2030",
+        "Supply & Demand Chain Executive, Only 5% of Organizations Will Make At Least 10% of Supply Chain Planning Decisions Autonomously by 2030 — https://www.sdcexec.com/software-technology/ai-ar/news/22975116/gartner-inc-only-5-of-organizations-will-make-at-least-10-of-supply-chain-planning-decisions-autonomously-by-2030",
+        "Logistics Management, Gartner analysis points to fewer supply chains letting AI make planning calls by 2030 — https://www.logisticsmgmt.com/article/gartner_analysis_points_to_fewer_supply_chains_letting_ai_make_planning_calls_by_2030",
+        "Modern Materials Handling, AI-based supply chain automation growing slowly — https://www.mmh.com/article/ai_based_supply_chain_automation_growing_slowly/technology"
+      ]
+    },
+    {
+      "id": "marta-2026-09-26-02",
+      "pillar": "ml",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Everyone's running AI across demand, inventory, and fulfillment at once. McKinsey's newest research says pick one and finish it first.",
+        "Six domains, one supply chain. The companies scaling AI fastest are only touching one at a time.",
+        "More pilots isn't more progress. McKinsey's data on consumer supply chains says it's often the opposite."
+      ],
+      "caption": "McKinsey's Akash Srivastava and Aniket Joglekar mapped how consumer companies actually scale supply chain AI. The pattern: the ones who succeeded ran fewer pilots, not more.\n\nTheir framework, published this month in Supply Chain Management Review, groups the work into six domains: demand sensing and integrated planning, inventory and replenishment, omnichannel fulfillment, transportation execution, distribution center automation, and end-to-end visibility and control towers.\n\nMost companies spread a little AI across all six at once. The recommendation: pick one domain, deliver it end-to-end inside a 6-to-12-month window, and build the data foundation there before touching the next one.\n\n→ The strongest predictor of success wasn't the tech stack - it was leadership buy-in inside that one domain\n→ The best starting domain isn't the flashiest - it's where the pain is acute and the data is usable\n→ Every domain finished this way makes the next one faster, since the data pipes and change playbook already exist\n\nA demand-sensing pilot, an automation pilot, and a control-tower pilot running at once isn't three times the progress. It's three unfinished domains competing for the same data team.\n\nHow many supply chain AI initiatives is your team running in parallel right now, and which one would survive if you had to pick just one?",
+      "hashtags": "#SupplyChain #DemandPlanning #AIStrategy #SupplyChainPlanning #Inventory",
+      "imageIdea": "An overhead photograph of six illuminated translucent glass panels arranged in a hexagon on a dark studio surface, five panels glowing dim and one in the center glowing brightly with an abstract blurred flow-diagram pattern, faint connecting light lines reaching only toward the bright panel, cool blue cinematic lighting, shallow depth of field, high-end editorial tech photography, no legible text, no people, no logos.",
+      "cover": {
+        "kicker": "Demand Planning",
+        "title": [
+          "Six domains.",
+          "One at a time."
+        ],
+        "big": "6"
+      },
+      "sources": [
+        "Supply Chain Management Review, Rewiring the consumer supply chain: An AI use case roadmap (Akash Srivastava and Aniket Joglekar, McKinsey & Company) — https://www.scmr.com/article/rewiring-the-consumer-supply-chain-an-ai-use-case-roadmap",
+        "NewsBreak, Rewiring the consumer supply chain: An AI use case roadmap — https://www.newsbreak.com/news/4889881793233-rewiring-the-consumer-supply-chain-an-ai-use-case-roadmap",
+        "McKinsey & Company, How to rewire supply chain for a fragmented world: Lessons from leaders — https://www.mckinsey.com/capabilities/operations/our-insights/how-to-rewire-supply-chain-for-a-fragmented-world-lessons-from-leaders"
+      ]
+    },
+    {
+      "id": "marta-2026-09-26-03",
+      "pillar": "auto",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "$4.7 billion went into software-defined defense factories last year. The revenue they've generated so far: $150 million.",
+        "Every startup pitch says '10x faster manufacturing.' A new market report just checked that claim against the actual physics.",
+        "Lockheed Martin didn't build a new AI factory. It rented a production cell inside the one it already runs."
+      ],
+      "caption": "$4.7 billion in venture capital went into software-defined defense manufacturing startups in 2025. The revenue those companies have generated so far: an estimated $150 million.\n\nThat gap is the headline of a new market analysis on AI-driven, software-defined factories entering the U.S. defense industrial base, published this week - and it isn't dismissed as hype. The report projects the category growing to $1.8 billion by 2030, a 64.9% compound annual growth rate, because the underlying capability is real. It's just years from most production lines.\n\nWhat the report does that most vendor decks don't: it checks marketing claims - sub-millimeter precision, 10x faster manufacturing, production at the speed of software - against peer-reviewed research on robotic forming, CNC automation, and AI-driven process control.\n\nThe most telling data point isn't a startup demo. It's how an incumbent is buying in: Lockheed Martin signed a memorandum of understanding to embed a startup's production cell inside its own Missiles and Fire Control facility, instead of replacing the facility or waiting for the startup to scale alone.\n\nThat's the pattern worth copying before the pitch deck: test the capability inside a cell you already run, before you bet the plant on it.\n\nIf a vendor's claim showed up in your next automation proposal, could you check it against anything besides their own demo?",
+      "hashtags": "#Manufacturing #DefenseManufacturing #Automation #Industry40 #AI",
+      "imageIdea": "A dim defense manufacturing bay at dusk, a compact modular robotic production cell with articulated robotic arms enclosed in safety glass panels standing inside a much larger, mostly empty industrial hall, a metal component fixture on a nearby workbench with blurred illegible technical markings, cool industrial overhead lighting with a warm spotlight isolating the production cell, shallow depth of field, editorial industrial-defense photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Manufacturing",
+        "title": [
+          "$4.7B invested.",
+          "$150M generated."
+        ],
+        "big": "$150M"
+      },
+      "sources": [
+        "GlobeNewswire, AI-Driven, Software-Defined Factories to Transform U.S. Defense Manufacturing Through 2030, Unlocking New Production and Sustainment Opportunities — https://www.globenewswire.com/news-release/2026/09/24/3368093/28124/en/ai-driven-software-defined-factories-to-transform-u-s-defense-manufacturing-through-2030-unlocking-new-production-and-sustainment-opportunities.html",
+        "Research and Markets, AI-Driven Defense Manufacturing Infrastructure: How Software-Defined Factories are Entering the U.S. Defense Industrial Base (2025-2030) — https://www.researchandmarkets.com/reports/6225849/ai-driven-defense-manufacturing-infrastructure",
+        "Breaking Defense, The future of defense manufacturing will be distributed, autonomous and software-defined — https://breakingdefense.com/2026/06/the-future-of-defense-manufacturing-will-be-distributed-autonomous-and-software-defined/"
+      ]
+    },
+    {
+      "id": "marta-2026-09-26-04",
+      "pillar": "mejora",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "As of yesterday, the tariff on your patented drug could be 0% or 100% - and the difference has nothing to do with the drug.",
+        "Two identical drug shipments cleared U.S. customs this week. One paid nothing. One will pay 100%. The gap isn't the product.",
+        "Generics crossed the border unaffected this week. Everything patented behind them just landed in a four-tier maze."
+      ],
+      "caption": "As of 12:01 a.m. Tuesday, the U.S. tariff on your patented drug could be 0%, 10%, 15%, or as high as 100% - and the difference has almost nothing to do with the drug itself.\n\nSection 232 tariffs on patented pharmaceuticals and APIs took effect for all remaining companies on September 29, 2026 (a first group of listed companies started paying on July 31). Generics and biosimilars aren't affected. Everything patented now sorts into tiers:\n→ 0% if your company has signed - or is likely to soon sign - a most-favored-nation pricing agreement with the U.S. government\n→ 20% now, rising to 100% by April 2030, with an approved U.S. onshoring plan instead\n→ 10% from the UK, 15% from the EU, Japan, South Korea, and Switzerland, with no agreement in place\n\nRead that list again. None of it is decided by the shipment crossing the border this week. It's decided by an agreement signed months ago in government affairs - and whether that status is mapped to the SKU and lane in your landed-cost system.\n\nIf it isn't, someone on your trade team is calculating the rate by hand, per shipment, at exactly the volume this deadline was designed to catch.\n\nCan your system tell you today, without a phone call, which tariff tier applies to tomorrow's shipment?",
+      "hashtags": "#PharmaSupplyChain #Tariffs #TradeCompliance #Pharma #SupplyChainRisk",
+      "imageIdea": "A customs inspection desk at a pharmaceutical import terminal, four identical stacked cardboard pharma shipping cartons lined up side by side on a stainless steel table each bearing a different colored clearance tag, blurred illegible customs paperwork underneath, cool overcast dockside light through a large window with a cargo plane silhouette faintly visible, shallow depth of field, editorial logistics-industry photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma & Trade",
+        "title": [
+          "Same drug.",
+          "Four tariff rates."
+        ],
+        "big": "100%"
+      },
+      "sources": [
+        "Crowell & Moring, Trump Administration Imposes Section 232 Tariffs on Patented Pharmaceutical Imports; Tiered Rate Structure Takes Effect Beginning July 31, 2026 — https://www.crowell.com/en/insights/client-alerts/trump-administration-imposes-section-232-tariffs-on-patented-pharmaceutical-imports-tiered-rate-structure-takes-effect-beginning-july-31-2026",
+        "Mallory Group, Section 232 Tariffs on Pharma Start July 31: Importer Guide — https://www.mallorygroup.com/blog-posts/100-duties-two-deadlines-section-232-pharmaceutical-tariffs-take-effect-july-31-2026",
+        "Carra Globe, Section 232 Pharmaceutical Tariffs 2026: The Complete Guide for Importers Before September 29 — https://carraglobe.com/section-232-pharmaceutical-tariffs-2026/",
+        "Brownstein, Trump Administration Announces Section 232 Tariffs on Pharmaceuticals — https://www.bhfs.com/insight/trump-administration-announces-section-232-tariffs-on-pharmaceuticals/"
+      ]
+    },
+    {
+      "id": "marta-2026-09-26-05",
+      "pillar": "retrabajo",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "AI can now design a working antibody from under 100 candidates instead of screening millions. Getting it through CMC still takes up to three years.",
+        "Novo Nordisk just gave its scientists a frontier AI model to compress a decade of biology. The chemistry, manufacturing, and controls behind whatever they find still runs on the same broken data.",
+        "Discovery got the AI model. Chemistry, manufacturing, and controls still gets cleaned up by hand."
+      ],
+      "caption": "On September 16, Novo Nordisk gave its scientists access to Anthropic's Claude to speed up drug discovery. Anthropic's Dario Amodei framed the goal as compressing a century of biological breakthroughs into a decade.\n\nDiscovery is already proving that math elsewhere. Absci's generative AI platform now designs a working antibody candidate from under 100 computational designs, against targets that used to require screening physical libraries of millions of compounds. That part of the pipeline got dramatically faster.\n\nChemistry, manufacturing, and controls - the process that turns a discovered molecule into something you can actually produce and file - didn't speed up at the same rate. A Zifo survey of biopharma data practices found why: 70% of respondents say they struggle to access the data AI needs, and PhD-level scientists spend an estimated 30% to 40% of their working time cleaning up and reconciling that data instead of doing science. CMC execution still runs 18 to 36 months per program, largely unchanged.\n\nThe bottleneck moved. The funding didn't follow it. Discovery got the frontier model. CMC still runs on the same siloed process data it did five years ago.\n\nIf your organization is piloting AI in discovery, is anyone applying the same investment to the CMC data your next molecule will actually depend on?",
+      "hashtags": "#Pharma #PharmaSupplyChain #CMC #DrugDevelopment #AI",
+      "imageIdea": "A pharmaceutical process development lab bench, a small rack of glass bioreactor vials connected by clear tubing, a laptop beside it displaying a blurred abstract molecular structure diagram next to a thick stack of loose paper lab notebooks with illegible handwriting, cool clinical lighting mixed with a warm desk lamp, shallow depth of field, editorial pharma-industry photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma & AI",
+        "title": [
+          "Discovery got faster.",
+          "CMC didn't."
+        ],
+        "big": "18-36mo"
+      },
+      "sources": [
+        "BioPharma Dive, Novo looks to Anthropic's AI models to 'supercharge' drug development — https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540/",
+        "Euronews, Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery — https://www.euronews.com/health/2026/09/16/danish-pharma-giant-novo-to-use-anthropics-claude-to-advance-ai-drug-discovery",
+        "Absci Corp, Unlocking de novo antibody design with generative artificial intelligence — https://www.absci.com/wp-content/uploads/2023/11/Absci___Unlocking_de_novo_antibody_design.pdf",
+        "PR Newswire, CMC Bottleneck is Choking Biopharma's Drug Pipeline, says Zifo — https://www.prnewswire.com/news-releases/cmc-bottleneck-is-choking-biopharmas-drug-pipeline-says-zifo-302867680.html"
       ]
     }
   ]
