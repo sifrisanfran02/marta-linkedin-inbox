@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T00:00:00Z",
+  "generatedAt": "2026-10-03T00:00:00Z",
   "drafts": [
     {
       "id": "marta-2026-08-14-01",
@@ -931,6 +931,139 @@
         "Euronews, Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery — https://www.euronews.com/health/2026/09/16/danish-pharma-giant-novo-to-use-anthropics-claude-to-advance-ai-drug-discovery",
         "Absci Corp, Unlocking de novo antibody design with generative artificial intelligence — https://www.absci.com/wp-content/uploads/2023/11/Absci___Unlocking_de_novo_antibody_design.pdf",
         "PR Newswire, CMC Bottleneck is Choking Biopharma's Drug Pipeline, says Zifo — https://www.prnewswire.com/news-releases/cmc-bottleneck-is-choking-biopharmas-drug-pipeline-says-zifo-302867680.html"
+      ]
+    },
+    {
+      "id": "marta-2026-10-03-01",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Demand for supply chain talent with AI skills is up 387% since 2023. Ask the people who approved that headcount if the AI itself is paying off, and more than half say they don't know.",
+        "67% of supply chain digital spend now goes to AI. 55% of chief supply chain officers can't tell you what they got for it.",
+        "You can out-hire the AI skills gap. Gartner says most companies still can't tell if the AI they hired for is worth what they're paying it."
+      ],
+      "caption": "Demand for supply chain talent with AI skills is up 387% since 2023. Ask the people who approved that headcount if the AI itself is paying off, and more than half say they don't know.\n\nGartner analyzed close to 35 million job postings between Q1 2023 and Q1 2026, including nearly 600,000 supply chain roles. Mid-senior positions make up 58% of the AI-skilled postings, and director-level demand is climbing just as fast.\n\nA separate Gartner survey of 394 organizations with at least $250 million in revenue found AI now takes 67% of supply chain digital investment. 55% of chief supply chain officers say they're still unclear on the return.\n\n→ The hiring moved faster than the measurement did\n→ New hires are landing inside teams with no agreed number for \"it worked\"\n→ Gartner's own fix isn't a better model - it's change management tied explicitly to each AI initiative, which it predicts will double ROI by 2030 versus the generic rollout most companies are running today\n\nYou don't close an ROI gap by hiring faster. You close it by deciding, before the role is filled, what number proves the hire - and the AI - earned its seat.\n\nIf your last AI hire started eight months ago, what's the one metric that tells you it worked?",
+      "hashtags": "#SupplyChain #AI #SupplyChainManagement #Talent #ROI",
+      "imageIdea": "An empty high-back office chair at a sleek glass desk, two monitors glowing in a dim modern office, one screen showing an abstract blurred upward-trending network graph in warm amber, the other showing a dim greyed-out abstract graph with a faint question-mark-shaped data gap, cool blue-grey corporate lighting, shallow depth of field, editorial corporate technology photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "AI & Talent",
+        "title": [
+          "Hiring AI talent fast.",
+          "Measuring it slower."
+        ],
+        "big": "387%"
+      },
+      "sources": [
+        "Demand for AI-skilled supply chain workers up nearly 400 per cent as talent gap widens: Gartner — Inside Logistics — https://www.insidelogistics.ca/artificial-intelligence-ai/demand-for-ai-skilled-supply-chain-workers-up-nearly-400-per-cent-as-talent-gap-widens-gartner/",
+        "Supply chain companies are scrambling to find workers with AI skills — Supply Chain 24/7 — https://www.supplychain247.com/article/supply-chain-ai-hiring-jumped-387-percent",
+        "Gartner Survey Finds Majority of Chief Supply Chain Officers Unclear on AI Investment Returns — Gartner — https://www.gartner.com/en/newsroom/press-releases/2026-08-05-gartner-survey-finds-majority-of-chief-supply-chain-officers-unclear-on-ai-investment-returns"
+      ]
+    },
+    {
+      "id": "marta-2026-10-03-02",
+      "pillar": "ml",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "AI cuts demand-forecast error by 20 to 50%, McKinsey finds. The 30-point gap between the two ends of that range is the more useful number.",
+        "90% of supply chain teams are using AI. McKinsey says 7% have actually scaled it past the pilot.",
+        "Every vendor quotes the top of McKinsey's forecasting-accuracy range. Almost nobody's actual number lands there."
+      ],
+      "caption": "AI cuts demand-forecast error by 20 to 50%, according to McKinsey. The 30-point gap between the two ends of that range is the more useful number.\n\nMcKinsey says AI has reached an inflection point in retail and consumer supply chains - commercial value is clearer now, but results stay uneven. Best-in-class implementations report:\n\n→ Demand-forecast error (MAPE) down 20-50%\n→ Inventory levels down 20-30%\n→ Lost sales from stockouts down as much as 65%\n→ Logistics costs down 5-20%\n\nSame technology, same report, a wide band of outcomes. On McKinsey's own Talks Operations podcast, the firm puts a number on why: 90% of supply chain organizations report using AI, and only 7% have scaled it past a pilot.\n\nThe forecasting engine isn't what separates the 20% from the 50%. It's whether the model got plugged into one SKU-channel pilot and left there, or wired into the planning process planners actually run on a Monday morning.\n\nWhere does your forecasting program sit on that range - and do you actually know, or are you estimating?",
+      "hashtags": "#SupplyChain #DemandPlanning #AI #MachineLearning #RetailSupplyChain",
+      "imageIdea": "A planner's desk with dual monitors displaying two overlapping abstract demand-forecast line graphs, one tight and smooth in confident blue, the other wide and jagged with a shaded grey uncertainty band, a stack of printed demand reports beside the keyboard with blurred illegible text, cool analytical office lighting, shallow depth of field, editorial corporate data photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Demand Planning",
+        "title": [
+          "Same AI.",
+          "A 30-point gap in results."
+        ],
+        "big": "20-50%"
+      },
+      "sources": [
+        "How AI is reshaping supply chains — Just Style — https://www.just-style.com/newsletters/how-ai-is-reshaping-supply-chains",
+        "McKinsey Talks Operations: Powering supply chain with agentic AI — McKinsey & Company (podcast) — https://omny.fm/shows/mckinsey-talks-operations/powering-supply-chain-with-agentic-ai"
+      ]
+    },
+    {
+      "id": "marta-2026-10-03-03",
+      "pillar": "auto",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "84% of manufacturers say AI is already creating measurable value on their floor. Only 20% of those use cases have made it past the line where they were piloted.",
+        "The AI paid for itself on line 3. Nobody copied it to line 4.",
+        "Deloitte surveyed 140 manufacturers. Almost all of them found value in AI. Four out of five still haven't scaled it past one line."
+      ],
+      "caption": "84% of manufacturers say AI is already creating measurable value on their floor. Only 20% of those use cases have made it past the line where they were piloted.\n\nDeloitte's 2026 AI in Manufacturing survey polled more than 140 manufacturing organizations across industries, regions, and company sizes. The value is real - most respondents aren't making it up. The scaling problem is structural, and it's usually one of three things:\n\n→ The pilot proved the model on one line's data - different parts, different operators, different failure modes on line 4\n→ No one wrote a budget line for scale-up past year one; the pilot's success became the end of the project, not the start of the rollout\n→ The team that built it rotated off once the demo worked, and nobody owned turning it into a standard\n\nA result that works on one line and stalls everywhere else isn't proof the technology works. It's proof the deployment plan only ever covered one line.\n\nHow many of your plant's \"proven\" AI use cases have actually reached a second line this year?",
+      "hashtags": "#Manufacturing #AI #Industry40 #OperationalExcellence #Scaling",
+      "imageIdea": "An industrial factory floor split by a soft focal transition, one production line bright and active with gleaming robotic arms and a glowing control panel in sharp focus, the adjacent parallel line dim and idle in soft shadow with an unlit panel, scattered cable conduits on the concrete floor, blurred illegible gauge readouts, a single shaft of overhead light cutting through dust, cool industrial tone, shallow depth of field, cinematic editorial manufacturing photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Manufacturing",
+        "title": [
+          "Proven on one line.",
+          "Stuck on all the others."
+        ],
+        "big": "20%"
+      },
+      "sources": [
+        "AI in Manufacturing — Deloitte Switzerland — https://www.deloitte.com/ch/en/Industries/industrial-construction/perspectives/ai-in-manufacturing.html",
+        "Enterprise AI in 2026: Key Trends, Data, and Predictions from Top Industry Reports — Capital Numbers — https://www.capitalnumbers.com/blog/?p=18896"
+      ]
+    },
+    {
+      "id": "marta-2026-10-03-04",
+      "pillar": "mejora",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "48% of supply chain leaders call AI's impact \"significant or greater\" this year - up 25 points from last year. Their budgets moved a lot slower.",
+        "The belief that AI will disrupt your industry jumped 25 points in a year. The money committed to it didn't.",
+        "Half your peers call AI's impact on their industry significant or bigger. Less than half of them have actually put a dollar figure behind it."
+      ],
+      "caption": "48% of supply chain leaders now call AI's disruptive impact on their industry \"significant or greater\" - up 25 percentage points from last year, per the 2026 MHI and Deloitte Annual Industry Report. 24% go further and call it transformational.\n\nActual usage hasn't moved at the same speed. 41% of respondents say their company is using AI today, up from 30% a year ago. The belief curve and the usage curve are no longer tracking together.\n\nInvestment plans are moving too, just not at matching pace:\n→ 56% of leaders are increasing supply chain technology and automation investment\n→ 52% plan to spend over $1 million on it\n→ 17% plan to spend over $10 million\n→ Top use cases stay unglamorous: demand and inventory optimization, predictive maintenance, transportation routing\n\nThat gap between what leaders believe and what they've funded isn't caution. It's a one-year lag, and lags close fast once the first competitor in your category proves the business case in public.\n\nWhere does your committed budget sit against what you believe AI will do to your industry this year?",
+      "hashtags": "#SupplyChain #SupplyChainStrategy #AI #DigitalTransformation #Budgeting",
+      "imageIdea": "A boardroom table seen from a slight overhead angle, an open leather-bound budget ledger next to a laptop displaying a blurred abstract upward bar chart, a pair of reading glasses resting on the ledger's edge, warm directional light through blinds casting long shadows across the polished table, shallow depth of field, editorial corporate strategy photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Strategy & Budget",
+        "title": [
+          "Belief jumped 25 points.",
+          "Budgets lag behind."
+        ],
+        "big": "48%"
+      },
+      "sources": [
+        "New MHI and Deloitte Report Finds AI is Biggest Disruptor of Supply Chains Over the Next Decade — MHI Solutions — https://www.mhisolutionsmag.com/index.php/2026/06/26/new-mhi-and-deloitte-report-finds-ai-is-biggest-disruptor-of-supply-chains-over-the-next-decade/",
+        "AI continues to drive major disruptions in supply chain field, according to MHI's Annual Industry Report — DC Velocity — https://dcvelocity.com/technology/ai-continues-to-drive-major-disruptions-in-supply-chain-field-according-to-mhis-annual-industry-report",
+        "Report identifies AI as the top supply chain disruptor for the next decade — SCW Magazine — https://scw-mag.com/news/report-identifies-ai-as-the-top-supply-chain-disruptor-for-the-next-decade/"
+      ]
+    },
+    {
+      "id": "marta-2026-10-03-05",
+      "pillar": "retrabajo",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "The company told FDA it didn't know process validation was required. Its AI agent had never flagged it as one.",
+        "FDA just gave AI misuse its own line item in a warning letter. The drugmaker's production line is now shut down.",
+        "An AI agent wrote the master production record. The Quality Unit never read it before it shipped."
+      ],
+      "caption": "The company told FDA it didn't know process validation was required. Its AI agent had never flagged it as one.\n\nOn April 2, 2026, FDA issued a warning letter to Purolea Cosmetics Lab, a Michigan-based drug manufacturer, after a three-day inspection. For the first time, the letter gives AI misuse its own standalone section - \"Inappropriate Use of Artificial Intelligence in Pharmaceutical Manufacturing\" - as a cGMP deficiency in its own right, not a footnote under documentation failures.\n\nWhat the letter describes:\n→ An AI agent drafted drug specifications, procedures, and master production records\n→ Those documents went into use without review or approval by the Quality Unit\n→ When FDA asked why validation was skipped, the company said it hadn't known the requirement existed\n\nThe company has since stopped producing the drug products named in the letter.\n\nFDA's position isn't that an AI agent can't draft a record. It's that a Quality Unit representative still has to read it, catch what the model missed, and put their name on it. The agent doesn't carry the regulatory obligation. The person who signed off on its output does.\n\nWho in your quality system actually reads what the AI drafts before it becomes the batch record?",
+      "hashtags": "#PharmaSupplyChain #Pharma #Compliance #QualityAssurance #AI",
+      "imageIdea": "A GMP pharmaceutical quality office, a stainless steel batch-record binder open on a steel table beside an unused red ink review stamp, blurred illegible master-production-record text on the open pages, a laptop screen glowing nearby showing an abstract blurred document interface, cool clinical overhead lighting, shallow depth of field, editorial pharma-industry photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma Quality",
+        "title": [
+          "The AI drafted it.",
+          "Nobody signed off."
+        ],
+        "big": "1st"
+      },
+      "sources": [
+        "FDA warns firm for inappropriate use of AI in drug manufacturing — RAPS (Regulatory Affairs Professionals Society) — https://www.raps.org/resource/fda-warns-firm-for-inappropriate-use-of-ai-in-drug-manufacturing.html",
+        "FDA's first AI-focused cGMP warning letter signals new scrutiny for manufacturers — BioSpace — https://www.biospace.com/policy/fdas-first-ai-focused-cgmp-warning-letter-signals-new-scrutiny-for-manufacturers",
+        "Use of AI Agents leads to the first FDA Warning Letter relating to AI — GMP Compliance — https://www.gmp-compliance.org/gmp-news/use-of-ai-agents-leads-to-the-first-fda-warning-letter-relating-to-ai"
       ]
     }
   ]
