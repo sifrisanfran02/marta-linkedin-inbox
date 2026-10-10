@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:00:00Z",
+  "generatedAt": "2026-10-10T00:00:00Z",
   "drafts": [
     {
       "id": "marta-2026-08-14-01",
@@ -1064,6 +1064,138 @@
         "FDA warns firm for inappropriate use of AI in drug manufacturing — RAPS (Regulatory Affairs Professionals Society) — https://www.raps.org/resource/fda-warns-firm-for-inappropriate-use-of-ai-in-drug-manufacturing.html",
         "FDA's first AI-focused cGMP warning letter signals new scrutiny for manufacturers — BioSpace — https://www.biospace.com/policy/fdas-first-ai-focused-cgmp-warning-letter-signals-new-scrutiny-for-manufacturers",
         "Use of AI Agents leads to the first FDA Warning Letter relating to AI — GMP Compliance — https://www.gmp-compliance.org/gmp-news/use-of-ai-agents-leads-to-the-first-fda-warning-letter-relating-to-ai"
+      ]
+    },
+    {
+      "id": "marta-2026-10-12-01",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Everyone pitching you this quarter is selling \"agentic AI.\" Gartner says most of what's for sale is automation wearing a new label.",
+        "By 2030, Gartner predicts half of supply chain software runs on autonomous agents. By 2027, it predicts over 40% of today's agentic AI projects get canceled first.",
+        "Ask your vendor which decision their agent makes without a human. Gartner says most can't answer that question yet."
+      ],
+      "caption": "Everyone pitching you this quarter is selling “agentic AI.” Gartner says most of what's for sale is automation wearing a new label.\n\nOn May 20, Gartner warned supply chain planning buyers about what it calls “agent washing” - vendors relabeling existing automation as agentic AI to chase the budget. Analyst Jan Snoeckx was direct: vendors claiming end-to-end autonomous planning before 2027 are overstating what's possible today.\n\n→ Most “agentic” tools on the market mainly improve the user experience - better query interpretation, recommendations, conversational search - not who makes the decision\n→ Separately, Gartner forecasts more than 40% of agentic AI projects will be canceled by the end of 2027, over cost, unclear value, or missing risk controls\n→ The same Gartner still expects half of cross-functional supply chain management software to run on autonomous agents by 2030\n\nTwo forecasts, same analyst firm, five years apart. The gap between a 2027 cancellation wave and a 2030 autonomy milestone is exactly where agent washing lives - and where your procurement budget sits right now.\n\nWhich decision does your vendor's agent make without a human signing off, and what happens the day it's wrong?",
+      "hashtags": "#SupplyChain #AI #AgenticAI #SupplyChainPlanning #ProcurementStrategy",
+      "imageIdea": "A close-up of an industrial control panel in a supply-chain operations center, a cropped hand peeling a glossy new label off an aged automation switchboard to reveal worn analog dials and toggle switches underneath, the new label catching cool blue light with an abstract blurred circuit-pattern design, warm overhead fluorescent light contrasting against the panel's cold metal, shallow depth of field, editorial industrial-technology photography, no people in frame, no logos, no legible text.",
+      "cover": {
+        "kicker": "AI Strategy",
+        "title": [
+          "Same automation.",
+          "New label."
+        ],
+        "big": "40%"
+      },
+      "sources": [
+        "Gartner Warns of Agent Washing Risks in Supply Chain Planning Technology Market — Gartner — https://www.gartner.com/en/newsroom/press-releases/2026-05-20-gartner-warns-of-agent-washing-risks-in-supply-chain-planning-technology-market",
+        "Gartner Says Agentic AI Hype Could Lead to Costly Mistakes — Supply Chain 24/7 — https://www.supplychain247.com/article/gartner-agent-washing-supply-chain-ai-risks/St_Onge",
+        "Gartner Predicts Half of Supply Chain Management Solutions Will Include Agentic AI Capabilities by 2030 — Gartner — https://www.gartner.com/en/newsroom/press-releases/2025-05-21-gartner-predicts-half-of-supply-chain-management-solutions-will-include-agentic-ai-capabilities-by-2030",
+        "Over 40% of Agentic AI Projects Will Be Scrapped by 2027, Says Gartner — Outlook Business — https://www.outlookbusiness.com/deeptech/artificial-intelligence/over-40-of-agentic-ai-projects-will-be-scrapped-by-2027-says-gartner"
+      ]
+    },
+    {
+      "id": "marta-2026-10-12-02",
+      "pillar": "ml",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "A forecasting vendor says its AI beat the incumbent model in 15 of 15 customer deployments. Ask whose incumbent model that was before you believe the 15.",
+        "Error down 32% on average, manual planning effort down 70% - in a benchmark the vendor ran on its own customers.",
+        "15 out of 15 isn't a statistic. It's the number of case studies the vendor chose to publish."
+      ],
+      "caption": "A forecasting vendor says its AI beat the incumbent model in 15 out of 15 customer deployments. Ask whose incumbent model that was before you believe the 15.\n\nDemandForecast.ai, built on Pecan AI, published a benchmark this month: across 15 deployments, forecast error fell 14% to 56% against the prior forecast, averaging a 32% improvement, and manual planning effort dropped 70% on average.\n\nThose numbers might be real. Here's what the benchmark doesn't tell you:\n→ 15 is the number of case studies the vendor chose to publish, not the number it ran\n→ “The incumbent forecast” isn't named - a stale spreadsheet model and a well-tuned statistical baseline fail by very different margins\n→ Manual planning effort dropping 70% can mean someone stopped checking the output, not that the output stopped needing checks\n\nNone of that makes the tool bad. It makes the benchmark marketing, not evidence - and marketing is exactly what you should read before a demo, not instead of one.\n\nNext time a forecasting vendor hands you a benchmark, what's the first number you ask them to name?",
+      "hashtags": "#DemandPlanning #SupplyChain #AI #Forecasting #VendorManagement",
+      "imageIdea": "A demand planner's desk at dusk, a glossy vendor benchmark report open beside a laptop showing two overlapping abstract forecast line charts - one smooth and confident in vendor blue, one jagged and uncertain in grey - a magnifying glass resting over the blurred illegible fine print of the report's footnotes, warm desk lamp light against a cool monitor glow, shallow depth of field, editorial corporate data photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Demand Planning",
+        "title": [
+          "15 out of 15.",
+          "Picked by the vendor."
+        ],
+        "big": "32%"
+      },
+      "sources": [
+        "AI Forecasts Beat the Incumbent Forecast in 15 of 15 Customer Deployments, DemandForecast.ai Benchmark Finds — HackerNoon — https://hackernoon.com/ai-forecasts-beat-the-incumbent-forecast-in-15-of-15-customer-deployments",
+        "AI Forecasts Beat the Incumbent Forecast in 15 of 15 Customer Deployments, DemandForecast.ai Benchmark Finds — Capital.com — https://capital.com/en-eu/news/ai-forecasts-beat-the-incumbent-forecast-in-15-of-15"
+      ]
+    },
+    {
+      "id": "marta-2026-10-12-03",
+      "pillar": "auto",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Predictive maintenance adoption more than doubled in a year. The bottleneck isn't the sensors anymore - it's who can read them.",
+        "78% of the obstacles blocking digital maintenance aren't budget. They're skills nobody trained for.",
+        "You bought the vibration sensors. Did you budget for someone who knows what a bad reading looks like?"
+      ],
+      "caption": "Predictive maintenance adoption more than doubled in the past year. The bottleneck isn't the sensors anymore - it's who can read them.\n\nFluke surveyed over 600 senior maintenance and reliability decision-makers across the US, UK, and Germany, spanning food and beverage, oil and gas, life sciences, and automotive. Reactive maintenance is falling and predictive maintenance is climbing fast. But when Fluke asked what's actually slowing digital maturity down:\n\n→ Skills-related challenges account for roughly 78% of all reported obstacles - not budget, not the technology itself\n→ In the UK specifically, predictive maintenance adoption more than doubled year over year, while reactive maintenance kept falling\n→ Nearly half of respondents plan to advance connected-reliability initiatives in the next 12 months, on top of the skills gap they already have\n\nA plant can own every vibration sensor on the market and still miss the failure, if the technician reading the dashboard doesn't know which anomaly is noise and which one is a bearing three weeks from seizing.\n\nWhere is your next maintenance budget going - more sensors, or training the people reading the ones you already installed?",
+      "hashtags": "#Manufacturing #PredictiveMaintenance #Industry40 #Reliability #WorkforceDevelopment",
+      "imageIdea": "A factory maintenance technician's workstation beside an industrial pump, a handheld vibration-analysis meter with a blurred abstract waveform on its small screen resting on a toolbox, a thick dog-eared training manual open nearby with illegible blurred diagrams, warm tungsten work-light cutting through a dim mechanical room, condensation beading on cold metal pipework, shallow depth of field, cinematic industrial editorial photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Manufacturing",
+        "title": [
+          "Adoption doubled.",
+          "Skills didn't keep up."
+        ],
+        "big": "78%"
+      },
+      "sources": [
+        "Fluke Survey Finds Predictive Maintenance Adoption Doubles as Manufacturers Boost Digital Investment — GlobeNewswire — https://www.globenewswire.com/news-release/2026/05/07/3289812/0/en/Fluke-Survey-Finds-Predictive-Maintenance-Adoption-Doubles-as-Manufacturers-Boost-Digital-Investment.html",
+        "Fluke: Skills Shortages Cause 78% of Manufacturing Obstacles — AI Magazine — https://aimagazine.com/news/fluke-skills-shortages-cause-78-of-manufacturing-obstacles",
+        "Predictive Maintenance Adoption More Than Doubles as UK Manufacturers Prioritise Digital Maturity — Electrical Times — https://www.electricaltimes.co.uk/?p=35174"
+      ]
+    },
+    {
+      "id": "marta-2026-10-12-04",
+      "pillar": "mejora",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Transit through the Strait of Hormuz collapsed 93% in a single month. The AI your company bought for exactly this moment barely helped.",
+        "Everyone bought AI to survive the next shock. The shock arrived in May, and most of that AI had nothing to connect to.",
+        "The model was fine. The ERP, the WMS, and the carrier API had never spoken to each other."
+      ],
+      "caption": "Transit through the Strait of Hormuz collapsed 93% year over year in a single month. The AI your company bought for exactly this kind of shock barely helped.\n\nThe closure hit in May 2026 - the IEA called it the largest energy supply disruption since the 1970s. Container lines including Maersk and Hapag-Lloyd still had transit suspensions in place as of early June. Companies that had spent two years funding AI forecasting and risk tools went looking for answers, and trade press coverage of the event converges on one explanation:\n\n→ The models themselves weren't the problem - the data feeding them was\n→ ERP, warehouse systems, supplier portals, carrier APIs, and demand signals were each built for their own workflow, not for talking to each other\n→ When the shock forced fast supplier swaps and inventory recalculation, that disconnection became the real liability, not the forecasting model's accuracy\n\nA forecasting engine with no live view of carrier capacity or supplier exposure isn't broken. It's just disconnected from the decision it was bought to support.\n\nBefore your next AI budget line, what's the one system in your stack that still can't talk to the others?",
+      "hashtags": "#SupplyChain #RiskManagement #SupplyChainStrategy #AI #DataStrategy",
+      "imageIdea": "An aerial-style editorial render of a congested shipping-strait choke point, dozens of cargo vessels anchored and waiting in hazy blue-grey water, overlaid faintly with a translucent abstract broken network-node diagram showing glowing dots that fail to connect to each other, moody overcast maritime light, cinematic wide shot, editorial logistics photography blended with a subtle data-visualization overlay, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Risk & Strategy",
+        "title": [
+          "The model was fine.",
+          "The data wasn't connected."
+        ],
+        "big": "93%"
+      },
+      "sources": [
+        "Why AI Still Struggles During Major Supply Chain Disruptions — Supply Chain 24/7 — https://www.supplychain247.com/article/supply-chain-ai-data-strategy-strait-of-hormuz/3PL",
+        "Powerful Models, Weak Data Foundations: The Supply Chain AI Contradiction — CDOTrends — https://www.cdotrends.com/story/5121/powerful-models-weak-data-foundations-supply-chain-ai-contradiction"
+      ]
+    },
+    {
+      "id": "marta-2026-10-12-05",
+      "pillar": "retrabajo",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Same error. Same model performance. Planners rewrote the forecast harder anyway - just because the screen said \"AI\" instead of \"model.\"",
+        "A field study of 575,000 forecasts found the label \"AI\" changes how hard planners second-guess it - not how accurate it is.",
+        "Swap the label from \"statistical model\" to \"AI\" on the same bad forecast, and watch how much more of it gets overridden."
+      ],
+      "caption": "Same forecast error. Same model performance. Planners rewrote the number harder anyway - just because the screen said “AI” instead of “statistical model.”\n\nResearchers at the University of Arkansas's Walton College ran two lab experiments and a field study of roughly 575,000 forecast observations from a multinational retailer that had switched from a traditional forecasting model to an AI system. Their finding: managers don't treat AI forecasts the same way they treat traditional ones, even when both perform identically.\n\n→ When an AI forecast misses, planners make larger manual adjustments than they do for the same-size miss from a traditional model\n→ The label itself - not the error size - is driving how much rework the forecast gets before it ships\n→ The researchers warn this can destabilize planning: more overrides, not necessarily more accuracy\n\nThis is the quiet cost nobody puts in the AI business case. You can buy a forecasting engine that performs exactly as well as the one it replaced, and still pay more in planner hours - because your own team doesn't trust the new label yet.\n\nHow much of your team's override time is fixing the forecast, and how much is just distrust of the word “AI” on the screen?",
+      "hashtags": "#DemandPlanning #SupplyChain #AI #ChangeManagement #OperationsResearch",
+      "imageIdea": "A demand planner's dual-monitor desk, one screen showing an abstract blurred forecast line chart beside a glowing minimal “AI” badge icon, the other screen showing a nearly identical forecast line chart with a plain neutral badge, a red pen resting atop heavily marked-up printouts next to the AI-labeled screen and a nearly untouched printout next to the other, cool analytical office lighting, shallow depth of field, editorial corporate data photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Rework & Trust",
+        "title": [
+          "Same forecast.",
+          "More rework for being “AI.”"
+        ],
+        "big": "575K"
+      },
+      "sources": [
+        "Does AI Change How Demand Planners Adjust Forecasts? — Walton College, University of Arkansas — https://walton.uark.edu/insights/posts/does_ai_change_how_demand_planners_adjust_forecasts.php"
       ]
     }
   ]
