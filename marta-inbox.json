@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:00:00Z",
+  "generatedAt": "2026-10-17T00:00:00Z",
   "drafts": [
     {
       "id": "marta-2026-08-14-01",
@@ -1196,6 +1196,141 @@
       },
       "sources": [
         "Does AI Change How Demand Planners Adjust Forecasts? — Walton College, University of Arkansas — https://walton.uark.edu/insights/posts/does_ai_change_how_demand_planners_adjust_forecasts.php"
+      ]
+    },
+    {
+      "id": "marta-2026-10-17-01",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "73% of mid-market manufacturers are still testing AI. Zero have moved it into full production.",
+        "Everyone on your plant floor says they're \"using AI.\" None of them have it running past the pilot.",
+        "Your competitor isn't ahead because they found a better model. They're ahead because their ERP isn't the bottleneck."
+      ],
+      "caption": "73% of mid-market manufacturers are still testing AI. None of them have moved it into full production.\n\nThat's the finding from a Kaufman Rossin survey of US mid-market manufacturing leaders, reported by MarketScale. The number that explains it isn't about models or vendors.\n\n→ 55% of manufacturers name legacy ERP systems and siloed data as their single biggest AI obstacle - versus 41% across the broader mid-market\n→ Only 27% of manufacturing companies have a data warehouse or data lake in place, versus 60% for mid-market firms overall\n→ A separate BCG review of supply chain AI adoption found fewer than 25% of companies show AI maturity at scale, even as the tools themselves move from copilots to systems that can execute multistep workflows\n\nThe pattern repeats everywhere I look: the model is rarely the hard part. The 15-year-old ERP instance feeding it disconnected, half-clean data is.\n\nBefore your next AI pilot gets a budget line, ask one question first: can the system actually see your inventory, your work orders and your quality data in one place? If the answer is no, you already know how the pilot ends.\n\nWhat's actually blocking your rollout - the model, or the data underneath it?",
+      "hashtags": "#Manufacturing #AI #SupplyChain #DigitalTransformation #Industry40",
+      "imageIdea": "A manufacturing plant control room at dusk, a bank of aging industrial SCADA terminals displaying blurred abstract data streams next to one sleek modern monitor showing a clean blurred analytics dashboard, tangled server cabling visible through a glass partition in the background, cool blue-grey industrial lighting, shallow depth of field, editorial industrial photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "AI Strategy",
+        "title": [
+          "Testing AI everywhere.",
+          "Scaling it nowhere."
+        ],
+        "big": "73%"
+      },
+      "sources": [
+        "73% of Mid-Market Manufacturers Are Still Testing AI, With Zero at Full Deployment — MarketScale — https://www.marketscale.com/industries/industrial-iot/73-of-mid-market-manufacturers-are-still-testing-ai-with-zero-at-full-deployment",
+        "Most Mid-Sized Manufacturers Are Stuck in AI Pilot Purgatory, Kaufman Rossin Research Finds — MarketScale — https://www.marketscale.com/industries/industrial-iot/most-mid-sized-manufacturers-are-stuck-in-ai-pilot-purgatory-kaufman-rossin-research-finds",
+        "Executive Perspectives: AI's New Mandate in Supply Chains — BCG — https://www.bcg.com/assets/2026/executive-perspectives-ais-new-mandate-in-supply-chains.pdf"
+      ]
+    },
+    {
+      "id": "marta-2026-10-17-02",
+      "pillar": "ml",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "100 European pharma supply chain heads were surveyed. 65% still don't trust AI to call the next disruption.",
+        "36% of pharma supply chains are running AI in isolated pilots. 65% don't trust it to predict what's coming next.",
+        "Pharma didn't skip the AI hype cycle. It's just stuck earlier in it than most people assume."
+      ],
+      "caption": "65% of pharma supply chain leaders say they have limited confidence in AI's ability to predict or mitigate disruption.\n\nThat's from WBR Insights' LogiPharma 2026 Playbook, a survey of 100 European heads of supply chain, built with input from Blue Yonder, GXO, project44, Tulana and TraceLink.\n\n→ 36% say they're using AI only in isolated or experimental cases\n→ 47% say they're actively planning or exploring AI as part of their roadmap - not running it yet\n→ The report's own framing: pharma supply chains are \"performing, but not yet optimized\"\n\nThis isn't really a pharma-specific trust problem. It's a sequencing problem. Most forecasting tools I see pitched into pharma were built and tuned on retail or CPG demand - short cycles, high volume, forgiving service targets. Pharma demand runs on different rules: batch records, cold chain, allocation, and a stockout that isn't a lost sale but a patient who doesn't get a dose.\n\nConfidence in the forecast won't come from a better algorithm pitch. It comes from validating the model against your own disruption history first - a tariff shock, an API shortage, a single-source supplier going down - before you let it anywhere near allocation decisions.\n\nWhere does your demand forecast actually break first: tariffs, single-source suppliers, or cold chain?",
+      "hashtags": "#PharmaSupplyChain #DemandPlanning #AI #Pharma #SupplyChainRisk",
+      "imageIdea": "A pharmaceutical cold-chain warehouse aisle, stacked insulated shipping containers with blurred illegible shipping labels, a wall-mounted temperature-monitoring screen showing an abstract blurred line graph flatlining then spiking sharply, cool clinical blue lighting, shallow depth of field, editorial pharma-logistics photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Demand Planning",
+        "title": [
+          "Pharma doesn't trust",
+          "the forecast yet."
+        ],
+        "big": "65%"
+      },
+      "sources": [
+        "AI Adoption in Pharmaceutical Supply Chains on the Rise: Report — Food Logistics — https://www.foodlogistics.com/home/news/22954618/worldwide-business-research-ai-adoption-in-pharmaceutical-supply-chains-on-the-rise-report",
+        "Report: 65% of Pharma Supply Chain Leaders Have Limited Confidence in AI — DC Velocity — https://www.dcvelocity.com/technology/artificial-intelligence/report-65-of-pharma-supply-chain-leaders-have-limited-confidence-in-ai",
+        "AI in Pharma Supply Chains: From Visibility to Predictive Resilience — WBR LogiPharma 2026 Playbook — https://wbresearch.foleon.com/report/logipharma-2025-playbook/ai-in-pharma-supply-chains"
+      ]
+    },
+    {
+      "id": "marta-2026-10-17-03",
+      "pillar": "auto",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "project44 spent 16 months testing 8 AI agent vendors before buying one. Most companies spend an afternoon.",
+        "Everyone's announcing \"AI agents\" this quarter. Few are showing you the 16-month bake-off behind the announcement.",
+        "The agent that won wasn't the newest pitch. It was the one that survived 16 months inside live freight operations."
+      ],
+      "caption": "project44 tested 8 AI agent vendors in live operations for 16 months before it bought one of them.\n\nThe company announced on April 9 that it had acquired LunaPath.ai, an AI-native logistics automation vendor running more than 50 purpose-built agents for tasks like carrier check calls, proof-of-delivery retrieval, claims initiation and appointment confirmation. It's project44's second major AI acquisition, after ClearMetal in 2021 brought it predictive ETA and disruption forecasting.\n\n→ LunaPath wasn't chosen off a demo. It won after competing against 7 other vendors inside project44's actual freight workflows\n→ The deciding factor, per the company: performance on high-volume voice and messaging execution - the repetitive work that quietly eats operator hours\n→ LunaPath now sits alongside Vooma and HappyRobot in a multi-vendor agent bench, not one single \"AI platform\"\n\nThis is the part of agentic AI adoption that doesn't make the keynote slide: you don't pick one agent vendor off a pitch deck and roll it out company-wide. You run several against your real workload, in parallel, for months, and let the operating data pick the winner - not the sales deck.\n\nIf you ran an 8-vendor bake-off on your own freight or planning workflows tomorrow, which task would you test first?",
+      "hashtags": "#SupplyChain #Logistics #AgenticAI #FreightTech #Automation",
+      "imageIdea": "A freight dispatch operations floor at night, a large wall display showing multiple blurred abstract tracking maps and dashboard tiles arranged like a tournament bracket, tangled network cabling running beneath a raised floor panel, cool blue monitor glow, shallow depth of field, editorial logistics-technology photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Agentic AI",
+        "title": [
+          "16 months testing agents.",
+          "Then they bought one."
+        ],
+        "big": "16"
+      },
+      "sources": [
+        "project44 Acquires LunaPath.ai to Accelerate AI Agent Orchestration Across Global Supply Chains — FreightWaves — https://www.freightwaves.com/news/project44-acquires-lunapath-ai-to-accelerate-ai-agent-orchestration-across-global-supply-chains",
+        "project44 Expands AI Strategy With LunaPath.ai Acquisition — Transport Topics — https://www.ttnews.com/articles/project44-acquires-lunapath",
+        "project44 Acquires LunaPath.ai in Second Purchase of an AI Firm — DC Velocity — https://www.dcvelocity.com/technology/artificial-intelligence/project44-acquires-lunapath-ai-in-second-purchase-of-an-ai-firm"
+      ]
+    },
+    {
+      "id": "marta-2026-10-17-04",
+      "pillar": "mejora",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Sanofi says AI helped it dodge $300M in revenue risk. Here's the question its CEO's column never answers.",
+        "$300M in avoided revenue risk. 80% of inventory risks caught early. The Sanofi case is real - and it's also a company grading its own test.",
+        "Every big pharma AI case study has the same gap: a large outcome number, no visible audit trail. Here's how to read one anyway."
+      ],
+      "caption": "Sanofi's CEO says AI-driven supply chain management helped the company avoid $300 million in revenue risk and predict 80% of low-inventory risks before they happened.\n\nThat's a real, concrete claim - and it's also self-reported, in a CEO's own commentary, with no published methodology behind either number [VERIFY]. Both things can be true at once. Here's how I'd read a case study like this before it goes into a board deck.\n\n→ Ask what \"avoided\" is measured against - a baseline forecast, last year's stockouts, or a model nobody outside the company can see\n→ Ask what \"80% of low-inventory risks\" means operationally - caught 2 weeks out or 2 days out changes everything about whether planners can actually act on it\n→ Separately, Sanofi has described combining AI-generated insight with a risk-based framework for inventory decisions, rather than letting the model decide alone - that detail matters more than the headline number\n\nThe lesson isn't \"don't trust Sanofi's numbers.\" It's that any AI ROI figure entering a budget conversation needs the same three questions asked of it - including the ones your own team brings you.\n\nWhat's the first question you ask when a vendor, or your own team, brings you an AI ROI number?",
+      "hashtags": "#PharmaSupplyChain #AI #ROI #InventoryManagement #SupplyChainStrategy",
+      "imageIdea": "A pharmaceutical inventory command center, a large curved monitor wall showing an abstract blurred bar chart and a blurred world map with scattered risk markers, a single red warning indicator glowing faintly among muted green ones, cool clinical lighting, shallow depth of field, editorial corporate-pharma photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Supply Chain ROI",
+        "title": [
+          "Sanofi says AI saved",
+          "$300M in revenue risk."
+        ],
+        "big": "$300M"
+      },
+      "sources": [
+        "Sanofi CEO: The Enterprise AI Shift Will Reshape Pharma in 2026 — Fortune — https://fortune.com/2026/02/10/sanofi-ceo-paul-hudson-predictions-2026-ai-transformation/ [VERIFY: self-reported figures, no published methodology]",
+        "AI: The Key to Navigating Supply Chain Challenges in an Uncertain World — Supply Chain Management Review — https://www.scmr.com/article/ai-key-to-navigating-supply-chain-challenges"
+      ]
+    },
+    {
+      "id": "marta-2026-10-17-05",
+      "pillar": "retrabajo",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "The FDA just issued its first warning letter for AI misuse in drug manufacturing. The AI wasn't the violation. The empty review box was.",
+        "An AI agent wrote the specs, the SOPs, and the production records. Nobody at the company checked any of it before the FDA did.",
+        "A drug manufacturer's AI never flagged that process validation was required. The company believed it - right up until the FDA didn't."
+      ],
+      "caption": "On April 2, the FDA issued what regulatory lawyers are calling its first cGMP warning letter naming AI misuse as its own deficiency.\n\nThe company, Purolea Cosmetics Lab, used AI agents to generate drug product specifications, SOPs, and master production and control records - with the stated goal of staying compliant. The letter cites 21 CFR 211.22(c): the firm's quality unit never reviewed or verified those AI-generated documents before they went into live manufacturing.\n\n→ FDA also found that process validation had never been conducted before the product shipped\n→ The company's own response, per the letter: it didn't know validation was required, because its AI agent had never flagged it\n→ The company has since stopped producing the drug\n\nOne regulatory attorney summed it up well: this wasn't a people problem caused by bad judgment. It was a people problem caused by removing people - and their judgment - from the loop entirely.\n\nFDA isn't writing new rules for AI here. It's applying the same quality-unit standard it always has, and finding that \"the AI wrote it\" is not a defense.\n\nIf an agent drafted your next batch record today, who actually signs off on it before it ships - and have they read it?",
+      "hashtags": "#Pharma #GMP #QualityAssurance #AI #Compliance",
+      "imageIdea": "A GMP quality control office, a stainless steel binder of batch records open on a desk beside a laptop showing a blurred abstract chat-agent interface, a red rubber warning stamp resting unused next to an empty signature line on a document, cool clinical lighting, shallow depth of field, editorial pharma-regulatory photography, no legible text, no people, no logos.",
+      "cover": {
+        "kicker": "cGMP Enforcement",
+        "title": [
+          "FDA's first warning letter",
+          "for AI misuse."
+        ],
+        "big": "1st"
+      },
+      "sources": [
+        "FDA's First cGMP Enforcement Action on AI Misuse in Drug Manufacturing — Pharmaceutical Online — https://www.pharmaceuticalonline.com/doc/fda-s-first-cgmp-enforcement-action-on-ai-misuse-in-drug-manufacturing-0001",
+        "Use of AI Agents Leads to the First FDA Warning Letter Relating to AI — GMP Compliance — https://www.gmp-compliance.org/gmp-news/use-of-ai-agents-leads-to-the-first-fda-warning-letter-relating-to-ai",
+        "FDA's First AI-Focused cGMP Warning Letter Signals New Scrutiny for Manufacturers — BioSpace — https://www.biospace.com/policy/fdas-first-ai-focused-cgmp-warning-letter-signals-new-scrutiny-for-manufacturers",
+        "The FDA's First AI Over-Reliance Warning Is a cGMP Violation — Redica Systems — https://www.redica.com/resources/post/the-fdas-first-ai-warning-over-reliance-is-a-cgmp-violation"
       ]
     }
   ]
