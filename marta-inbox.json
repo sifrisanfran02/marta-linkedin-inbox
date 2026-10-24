@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:00:00Z",
+  "generatedAt": "2026-10-24T00:00:00Z",
   "drafts": [
     {
       "id": "marta-2026-08-14-01",
@@ -1331,6 +1331,143 @@
         "Use of AI Agents Leads to the First FDA Warning Letter Relating to AI — GMP Compliance — https://www.gmp-compliance.org/gmp-news/use-of-ai-agents-leads-to-the-first-fda-warning-letter-relating-to-ai",
         "FDA's First AI-Focused cGMP Warning Letter Signals New Scrutiny for Manufacturers — BioSpace — https://www.biospace.com/policy/fdas-first-ai-focused-cgmp-warning-letter-signals-new-scrutiny-for-manufacturers",
         "The FDA's First AI Over-Reliance Warning Is a cGMP Violation — Redica Systems — https://www.redica.com/resources/post/the-fdas-first-ai-warning-over-reliance-is-a-cgmp-violation"
+      ]
+    },
+    {
+      "id": "marta-2026-10-26-01",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Hormuz didn't test your AI model. It tested whether your ERP, your WMS, and your carrier portal had ever spoken to each other.",
+        "63% of tech executives name data quality as AI's biggest barrier. Only 15% say their data is actually integrated. The Strait of Hormuz disruption found out which group they were in.",
+        "Everyone's buying AI to reroute around the next Hormuz. Most of them are buying it for systems that still don't talk to each other."
+      ],
+      "caption": "Hormuz didn't test your AI model. It tested whether your ERP, your WMS, and your carrier portal had ever spoken to each other.\n\nWhen Iran closed the Strait earlier this year, outbound Gulf traffic that normally ran around 140 vessels a day nearly stopped. Rerouting around it meant pulling live carrier capacity, inventory positions, supplier locations, and freight cost signals - all at once, from systems bought separately, tuned separately, and never built to reason across each other.\n\nThat gap isn't hypothetical. A survey of senior tech executives at large US firms this year found:\n→ 63% name data quality as the top barrier to AI performance [VERIFY: single-source figure]\n→ Only 15% describe their own data as mostly integrated [VERIFY: single-source figure]\n→ The rest are running a model on top of a patchwork, and only find out how well that holds up when a chokepoint closes\n\nAn AI tool that can't see your carrier capacity and your inventory position in the same view can't actually reroute anything - it can only guess faster than a person would.\n\nBefore your next AI pilot for disruption response: can it already see your inventory, your carriers, and your suppliers in one place, or is that still three logins and a phone call?",
+      "hashtags": "#SupplyChain #SupplyChainRisk #DataStrategy #AIStrategy #SupplyChainManagement",
+      "imageIdea": "A shipping operations control room overlooking a narrow maritime chokepoint at dusk, a large wall map showing shipping lanes with one route highlighted crossing the strait, several separate desktop monitors on a long console each displaying a different abstract blurred dashboard - inventory bars, a carrier capacity grid, a routing chart - that visibly don't align with each other, cool blue tanker-deck lighting mixed with warm console glow, shallow depth of field, editorial maritime-logistics photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Supply Chain Risk",
+        "title": [
+          "The crisis didn't break the AI.",
+          "It broke the data underneath it."
+        ],
+        "big": "63%"
+      },
+      "sources": [
+        "Supply Chain 24/7, Why AI Still Struggles During Major Supply Chain Disruptions — https://www.supplychain247.com/article/supply-chain-ai-data-strategy-strait-of-hormuz/news",
+        "ASIS International, Strait of Hormuz Closure — https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2026/march/strait-of-hormuz-closure/",
+        "Business Today, Shipping at Hormuz Nearly Comes to a Halt, Iran Issues New Warnings (Jul 10, 2026) — https://www.businesstoday.in/world/story/shipping-at-hormuz-nearly-comes-to-a-halt-iran-issues-new-warnings-report-542187-2026-07-10"
+      ]
+    },
+    {
+      "id": "marta-2026-10-27-01",
+      "pillar": "ml",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "65% of pharma supply chain leaders don't trust AI to call the next disruption. At LogiPharma USA this month, the ones getting real value from it weren't trying to.",
+        "100 pharma supply chain leaders were surveyed in Europe. 65% have limited confidence in AI's ability to predict disruption. Nobody asked if it could find a missing shipment instead.",
+        "Pharma's AI confidence problem isn't the model's accuracy. It's what everyone expected it to do first."
+      ],
+      "caption": "65% of pharma supply chain leaders have limited confidence in AI's ability to predict or mitigate disruption, per WBR Insights' LogiPharma Playbook 2026 - a survey of 100 European supply chain heads. 36% are only using AI in isolated, experimental cases. The report's own verdict: pharma supply chains are performing, but not yet optimized.\n\nAt LogiPharma USA this month, the people getting real value out of AI weren't trying to close that confidence gap with a bigger forecasting model.\n\n→ Zoomlogi's Henry Ames: AI's clearest win right now is the boring work - chasing missing shipment data, taking the after-hours call nobody wants to\n→ During an active disruption, an agent logs calls and emails as it unfolds, building an audit-ready record - a quality manager still decides quarantine or release\n→ Cencora's Matt Sample compares forecasts against live ordering patterns to flag demand shifts early, a reported 10% accuracy lift [VERIFY]\n\nEvery speaker repeated the same line: connected data first, a person stays accountable for the call that matters. The confidence number was never about accuracy. It was about expecting AI to replace a decision it was never built to make.\n\nIf your team doesn't trust AI with the big call yet, have you tried it on the shipment exception sitting in someone's inbox right now?",
+      "hashtags": "#PharmaSupplyChain #DemandPlanning #Pharma #MachineLearning #SupplyChainResilience",
+      "imageIdea": "A pharmaceutical logistics night-shift operations desk, a single desk phone resting off the hook beside a printed carrier exception report with blurred illegible text, a monitor glowing softly out of focus behind showing two overlapping demand-curve lines - one jagged, one smooth - rendered as an abstract blurred graph, a small scatter of shipment tracking labels on the desk, dim nighttime warehouse lighting mixed with a warm desk lamp, shallow depth of field, editorial pharma-logistics photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma & AI",
+        "title": [
+          "65% don't trust AI",
+          "to call the next disruption."
+        ],
+        "big": "65%"
+      },
+      "sources": [
+        "DC Velocity, Report: 65% of Pharma Supply Chain Leaders Have Limited Confidence in AI — https://www.dcvelocity.com/technology/artificial-intelligence/report-65-of-pharma-supply-chain-leaders-have-limited-confidence-in-ai",
+        "The Supply Chain Xchange, Report: 65% of Pharma Supply Chain Leaders Lack Confidence in AI — https://www.thescxchange.com/editorial/featured/report-65-of-pharma-supply-chain-leaders-lack-confidence-in-ai",
+        "Pharmaceutical Commerce, Why AI's Clearest Supply Chain Wins Are in the Basics (Oct 13, 2026) — https://www.pharmaceuticalcommerce.com/view/why-ai-s-clearest-supply-chain-wins-are-in-the-basics",
+        "Pharmaceutical Commerce, FAQ: How Is AI Being Deployed in Pharma Supply Chains (Oct 19, 2026) — https://www.pharmaceuticalcommerce.com/view/faq-how-is-ai-being-deployed-in-pharma-supply-chains"
+      ]
+    },
+    {
+      "id": "marta-2026-10-28-01",
+      "pillar": "auto",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Most warehouse agent rollouts fail for the same reason a new hire would: full authority on day one, before anyone checked if the operation was ready for it.",
+        "Five authority levels, one new rule: your AI agent doesn't start at the top just because the vendor demo did.",
+        "Logistics Reply's new framework has a blunt premise - most warehouses aren't mature enough for the autonomy they're about to buy."
+      ],
+      "caption": "Most warehouse agent rollouts fail for the same reason a new hire would: full authority on day one, before anyone checked if the operation was ready for it.\n\nLogistics Reply's LEA Agent Authority Model, released this month, splits the rollout into two questions. First: how mature is your governance, your controls, your trust in the data - not your ambition. Second: how much decision-making power does this specific agent get for this specific task.\n\nFive authority levels, least to most autonomous:\n→ Inform - the agent surfaces what it sees, a person decides everything\n→ Recommend - it suggests an action, a person still approves it\n→ Act - it executes within a defined, narrow boundary\n→ Coordinate - it adjusts across multiple linked tasks\n→ Governed Autonomy - it acts independently, inside guardrails your team set and can audit\n\nThe point isn't the five labels. It's that authority should grow as the agent earns evidence, not as fast as a vendor contract allows. Use the case here, skip the pitch: an agent rebalancing dock schedules at \"Act\" level, with nobody checking its first ten decisions, is the same mistake as an AI drafting GMP records nobody reviewed.\n\nWhich authority level is your newest warehouse or planning agent actually operating at - and did anyone decide that on purpose?",
+      "hashtags": "#Manufacturing #WarehouseAutomation #AgenticAI #SupplyChain #Logistics",
+      "imageIdea": "A warehouse operations control desk overlooking a dock-scheduling yard at dusk, a large wall-mounted screen showing an abstract blurred progression of five glowing stacked bars rising in intensity from dim to bright, a handheld tablet resting on the console displaying a blurred abstract approval-workflow diagram, autonomous forklifts softly blurred in motion on the warehouse floor behind glass, cool industrial blue lighting with a warm accent on the brightest bar, shallow depth of field, editorial logistics-technology photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Automation",
+        "title": [
+          "Your new agent doesn't start",
+          "at full autonomy."
+        ],
+        "big": "5"
+      },
+      "sources": [
+        "Reply, Logistics Reply Introduces the LEA AI Agent Authority Model — https://www.reply.com/en/newsroom/news/logistics-reply-introduces-the-lea-ai-agent-authority-model",
+        "Precedence Research, Logistics Reply Launches LEA AI Agent Authority Model for Governed Warehouse Automation — https://www.precedenceresearch.com/news/logistics-reply-lea-ai-agent-authority-model-warehouse-automation",
+        "Reply, Agentic AI: Five Warehouse Agents in LEA Dynamic Intelligence — https://www.reply.com/logistics-reply/en/blog/agentic-ai-five-warehouse-agents-lea-dynamic-intelligence"
+      ]
+    },
+    {
+      "id": "marta-2026-10-29-01",
+      "pillar": "mejora",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "One survey says 32% of manufacturers have fully integrated AI. Another says zero have reached full deployment. Both surveyed the same kind of company this year.",
+        "88% integrated. 0% fully deployed. Same sector, same year, two surveys that can't both be describing the same thing.",
+        "Before you quote an AI adoption statistic in your next board deck, ask what \"integrated\" meant to the people who collected it."
+      ],
+      "caption": "One 2026 survey of mid-market manufacturers found 88% have AI at least partially integrated, with 32% reporting full integration. Another found 73% are still in testing, and not a single company surveyed has reached full, company-wide AI deployment. Same sector, same year - RSM's Middle Market AI Survey on one side, a Kaufman Rossin survey on the other [VERIFY: Kaufman Rossin sample size and methodology not independently confirmed].\n\nBoth can be accurate. They're not measuring the same thing.\n\n→ RSM's 129 manufacturing respondents were asked about integration into their organization - a looser bar that one department's working pilot can clear\n→ Kaufman Rossin asked about full, company-wide deployment - a bar most manufacturers haven't cleared in any category, AI included\n→ RSM's own barrier list explains the gap: security concerns (37%), data quality and lineage (32%), legacy system integration (27%), talent gaps (24%) - the same four reasons a pilot stalls before it scales\n\nNeither number is wrong. The mistake is citing either one without asking what it actually measured - a working pilot in one plant, or a system running everywhere, the same way, with nobody babysitting it.\n\nBefore your next AI adoption stat goes in a deck: does it describe a pilot that works, or a system that scaled?",
+      "hashtags": "#Manufacturing #AIAdoption #ContinuousImprovement #DigitalTransformation #Industry40",
+      "imageIdea": "A dim manufacturing plant floor at dusk, two wall-mounted status screens side by side above a production line - one glowing with an abstract blurred bar chart climbing high, the other showing a flat blurred line near zero - a lone idle robotic arm visible between them, cool industrial lighting with a faint warm highlight on the contrasting screens, shallow depth of field, editorial industrial photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Manufacturing",
+        "title": [
+          "88% integrated.",
+          "0% fully deployed."
+        ],
+        "big": "0%"
+      },
+      "sources": [
+        "RSM, AI Survey 2026 Industry Snapshot: Manufacturing — https://rsmus.com/insights/industries/manufacturing/manufacturers-using-ai-2026.html",
+        "RSM, RSM Survey: Middle Market Embraced AI, Now Comes the Hard Part — https://rsmus.com/newsroom/2026/rsm-survey-middle-market-embraced-ai-now-comes-hard-part.html",
+        "MarketScale, 73% of Mid-Market Manufacturers Are Still Testing AI, With Zero at Full Deployment — https://www.marketscale.com/industries/industrial-iot/73-of-mid-market-manufacturers-are-still-testing-ai-with-zero-at-full-deployment.md"
+      ]
+    },
+    {
+      "id": "marta-2026-10-30-01",
+      "pillar": "retrabajo",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Europe drafted a rule banning generative AI from critical GMP work. Whether that rule survives doesn't change what you need to do about it.",
+        "Annex 22's draft text says LLMs don't belong in critical GMP applications. The FDA's first AI warning letter, three months later, made the same point without writing a rule at all.",
+        "The EU may soften its draft ban on generative AI in GMP. The accountability it was trying to protect isn't up for negotiation either way."
+      ],
+      "caption": "The draft EU GMP Annex 22, in consultation since mid-2025, excludes generative AI and large language models from its scope and says they should not be used in critical GMP applications. A 2025 stakeholder consultation pushed back, and EMA held a workshop in late June to reconsider; the final wording may still shift.\n\nHere's why that detail matters less than it looks like it should.\n\n→ The draft still allows GenAI and LLMs in non-critical work, as long as qualified staff confirm the output fits its purpose before use - human-in-the-loop, not a technology ban\n→ The FDA's first AI-specific warning letter, issued in April, didn't cite a rule against AI. It cited a quality unit for never reviewing the AI's draft before it entered a live batch record\n→ Static, deterministic ML models stay inside Annex 22's scope either way, with the same documentation and life-cycle requirements as any other GMP system\n\nWhether Brussels finalizes the ban or walks it back under industry pressure, the real requirement doesn't move: a named person reviews the AI's output before it becomes a GxP record. That's the quality-unit standard GMP has run on for decades, not new guidance.\n\nHas your quality unit checked what your AI tools are allowed to touch against that standard, or is it waiting for Annex 22's final text to decide?",
+      "hashtags": "#Pharma #GMP #PharmaSupplyChain #Compliance #QualityAssurance",
+      "imageIdea": "A GMP regulatory affairs office, a thick guidance binder open on a stainless steel table with a faint diagonal watermark-like pattern across blurred illegible pages, a red pen resting beside an unsigned signature line on a document, a window in the background showing the soft blurred silhouette of a European government building at dusk, cool clinical lighting mixed with warm desk lamp glow, shallow depth of field, editorial pharma-regulatory photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma & AI Compliance",
+        "title": [
+          "The ban may not survive.",
+          "The accountability will."
+        ],
+        "big": "22"
+      },
+      "sources": [
+        "Pharmaceutical Technology, Europe Tried to Ban Generative AI From Critical GMP. The Ban May Not Survive. It Does Not Matter. (Aug 13, 2026) — https://www.pharmtech.com/view/europe-tried-to-ban-generative-ai-from-critical-gmp-the-ban-may-not-survive-it-does-not-matter-",
+        "GMP Insiders, Annex 22 Draft: Regulatory Guidance on AI Use in GMP — https://gmpinsiders.com/?p=8791",
+        "European Pharmaceutical Review, What Annex 22 Spells for AI in GMP Manufacturing — https://www.europeanpharmaceuticalreview.com/what-annex-22-spells-for-ai-in-gmp-manufacturing/2135686.article",
+        "EMA, GMP Multistakeholder Workshop: Expert Contributions to AI Guidance Development (Annex 22) — https://www.ema.europa.eu/en/events/good-manufacturing-practice-multistakeholder-workshop-expert-contributions-artificial-intelligence-guidance-development-annex-22"
       ]
     }
   ]
