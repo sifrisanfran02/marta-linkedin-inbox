@@ -1469,6 +1469,137 @@
         "European Pharmaceutical Review, What Annex 22 Spells for AI in GMP Manufacturing — https://www.europeanpharmaceuticalreview.com/what-annex-22-spells-for-ai-in-gmp-manufacturing/2135686.article",
         "EMA, GMP Multistakeholder Workshop: Expert Contributions to AI Guidance Development (Annex 22) — https://www.ema.europa.eu/en/events/good-manufacturing-practice-multistakeholder-workshop-expert-contributions-artificial-intelligence-guidance-development-annex-22"
       ]
+    },
+    {
+      "id": "marta-2026-11-02-01",
+      "pillar": "ia",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Supply chain AI budgets keep climbing into 2026. The number of teams that can show you a written strategy for that money hasn't moved in over a year.",
+        "Ask ten CSCOs if they're increasing AI investment next year. Nine say yes. Ask to see the strategy the money is funding, and most can't produce one.",
+        "Everyone's AI budget is going up. Almost nobody's AI strategy is."
+      ],
+      "caption": "Supply chain AI budgets keep climbing into 2026. The number of teams that can show you a written strategy for that money hasn't moved in over a year.\n\nGartner surveyed supply chain leaders who had already deployed AI. Only 23% said their organization has a formal, documented AI strategy. Roughly 40% are running on an ad hoc plan - one that gets rewritten every time a new vendor pitch lands.\n\nGartner's newest guidance, published September 24, names the trap directly: CSCOs feel pressure to show fast ROI, and that pressure pushes them toward quick wins that lock in the wrong architecture before anyone's agreed on the long-term one.\n\n→ A formal strategy means defined decision rights: who approves an agent acting without a human, and under what conditions\n→ An ad hoc plan means the roadmap is whatever the last successful pilot happened to be\n→ Gartner's advice isn't to slow down. It's to write the strategy before the next budget cycle locks in a bigger version of today's patchwork\n\nIf someone pulled your AI roadmap out of a drawer right now, would it survive a budget review in 12 months - or would it need to be rewritten from page one?",
+      "hashtags": "#SupplyChain #AIStrategy #Gartner #SupplyChainManagement #DigitalTransformation",
+      "imageIdea": "A glass-walled corporate strategy room at dusk, a large architectural roadmap document spread across a long table - one half crisp, bound, and orderly, the other half torn loose pages and overlapping sticky notes, a faint abstract rising bar-chart graphic glowing on a wall-mounted screen in the background with blurred illegible numbers, cool blue corporate lighting, shallow depth of field, editorial business-strategy photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "AI Strategy",
+        "title": [
+          "AI budgets keep rising.",
+          "Strategy is still missing."
+        ],
+        "big": "23%"
+      },
+      "sources": [
+        "Gartner, Gartner Survey Shows Just 23% of Supply Chain Organizations Have a Formal AI Strategy (June 11, 2025) — https://www.gartner.com/en/newsroom/2025-06-11-gartner-survey-shows-just-23-percent-of-supply-chain-organizations-have-a-formal-ai-strategy",
+        "Gartner, 2026 CSCO Priority: Defining Supply Chain's AI Strategy (abstract, Sept 24, 2026) — https://www.gartner.com/en/documents/8424913",
+        "MH&L / Modern Materials Handling, AI Not Driving Supply Chain Operations Redesign — https://www.mhlnews.com/technology-automation/news/55375808/ai-not-driving-supply-chain-operations-redesign"
+      ]
+    },
+    {
+      "id": "marta-2026-11-03-01",
+      "pillar": "ml",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Pharma's AI headlines are all about drug discovery. The function quietly posting this year's biggest jump in measurable results is supply chain.",
+        "38% of pharma companies can point to a measurable AI outcome anywhere in the business. One function nearly doubled that rate on its own.",
+        "Ask a pharma exec which part of the company AI actually paid off in 2026. The honest answer isn't the lab. It's the plant floor and the warehouse."
+      ],
+      "caption": "Pharma's AI headlines are all about drug discovery. The function quietly posting this year's biggest jump in measurable results is supply chain.\n\nZS's newest pharma benchmark, published October 23, puts company-wide measurable AI outcomes at 38% in 2026. Supply chain and manufacturing posted the largest gain of any single function - from 29% in 2025 to 53% this year, according to ZS's Mahmood Majeed.\n\n→ The jump isn't a smarter model. It's AI moving out of pilot mode and into routine demand planning, scheduling, and inventory decisions, running every week instead of every quarter\n→ GMP's human-review requirement still applies to every output - the gain shows up in speed and consistency, not in removing the review step\n→ Compare that to a separate finding from earlier this year: 65% of pharma supply chain leaders said they still don't fully trust AI to call the next disruption\n\nTrust is lagging. Results aren't. That gap is exactly where the next budget argument gets made - with numbers, not reassurance.\n\nWhich function in your company could show a measurable result today if your CFO asked, and which one would you rather not be asked about?",
+      "hashtags": "#PharmaSupplyChain #AIinPharma #DemandPlanning #LifeSciences #SupplyChainAI",
+      "imageIdea": "A sterile pharmaceutical production line, stainless steel conveyor carrying rows of glass vials toward a packaging station, a faint semi-transparent holographic data overlay above the line showing abstract blurred charts and numbers that are illegible, cool clinical blue-white lighting, shallow depth of field, editorial pharma-manufacturing photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "Pharma & AI",
+        "title": [
+          "Supply chain just posted",
+          "pharma's biggest AI gain."
+        ],
+        "big": "53%"
+      },
+      "sources": [
+        "PharmTech, Pharma Leaders Weigh In on AI's Measurable Results in 2026 (Oct 23, 2026) — https://www.pharmtech.com/view/pharma-leaders-weigh-in-on-ais-measurable-results-in-2026",
+        "DC Velocity / Supply Chain Quarterly, Report: 65% of Pharma Supply Chain Leaders Have Limited Confidence in AI — https://www.pulse.bot/manufacturing/news/report-65-of-pharma-supply-chain-leaders-have-limited-confidence-in-ai-390d8020-6938-4445-8d4a-4f81b1661062/"
+      ]
+    },
+    {
+      "id": "marta-2026-11-04-01",
+      "pillar": "auto",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "Half of what Zalando sells online comes back. On October 7, the company started letting robots sort it.",
+        "A returned sweater arrives inside-out, half-folded, in the wrong bag. That's exactly the mess a warehouse robot was never supposed to handle - until this month.",
+        "No per-item training. No fixed SKU profile. Just a robot arm looking at a pile of returns it's never seen before, deciding what to do with each one."
+      ],
+      "caption": "Half of what Zalando sells online comes back. On October 7, the company started letting robots sort it.\n\nCEVA Logistics put Sereact's dual-arm robotic systems live at two sites - Greven, Germany, and Świebodzin, Poland - to handle Zalando's fashion returns. That's a harder problem than it sounds: a returned item arrives inside-out, half-folded, in the wrong bag, defying the fixed pick-points a warehouse robot normally needs.\n\n→ The robots run on Sereact's \"Cortex\" platform, built to grasp and sort items with no per-item training and no fixed SKU profile - a genuinely new item, not a rehearsed one\n→ Zalando didn't just buy the system. It backed Sereact's Series B as a strategic investor in July, three months before go-live\n→ This is phase one of a wider plan to scale returns automation across Europe, not a single-site pilot\n→ Warehouse staff are shifting toward supervision, exceptions, and quality control - not picking\n\nThe hard automation problem was never the item you'd trained the model on a thousand times. It was the one that showed up looking nothing like what you expected.\n\nWhere in your operation is the real bottleneck the item you've never seen before, not the one you've already automated?",
+      "hashtags": "#WarehouseAutomation #Robotics #ReverseLogistics #SupplyChain #PhysicalAI",
+      "imageIdea": "Inside a European logistics warehouse, a sleek industrial dual-arm robot mid-motion grasping a crumpled, inside-out piece of folded clothing from a disordered pile of returned apparel on a conveyor belt, soft overhead industrial lighting, slight motion blur on the robotic arm, shallow depth of field, photorealistic 3D render, editorial robotics and logistics photography style, no people, no visible logos, no legible text.",
+      "cover": {
+        "kicker": "Automation",
+        "title": [
+          "Zalando's returns pile",
+          "just got robot hands."
+        ],
+        "big": "50%"
+      },
+      "sources": [
+        "Robotics 24/7, CEVA Logistics Deploys Sereact's AI-Powered Dual-Arm Robotic Systems for Zalando Returns Handling at Sites in Germany and Poland (Oct 7, 2026) — https://www.robotics247.com/article/ceva-logistics-deploys-sereacts-ai-powered-dual-arm-robotic-systems-for-zalando-returns-handling-at-sites-in-germany-and-poland",
+        "Supply Chain Digital, CEVA and Zalando Use AI Robots for Fashion Returns — https://supplychaindigital.com/operations/ceva-and-zalando-use-ai-robots-for-fashion-returns"
+      ]
+    },
+    {
+      "id": "marta-2026-11-05-01",
+      "pillar": "mejora",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "More than 80% of supply chain leaders are raising their AI budget for next year. Only 1 in 5 of this year's AI projects in the warehouse actually hit the goal they were funded for.",
+        "Supply chain is the function where AI shows up most as a cost cut on the P&L. It's also the function where it shows up most as a headcount cut. Ask which one your board actually signed off on.",
+        "The AI budget keeps going up. The share of warehouse and transportation AI projects that hit their own goals doesn't."
+      ],
+      "caption": "More than 80% of supply chain leaders are raising their AI budget for next year. Only 1 in 5 of this year's AI projects in the warehouse actually hit the goal they were funded for.\n\nThat's Gartner's own number, from its Barcelona symposium: over 80% expect funding increases, with AI the top line item, but only 20% of warehousing and transportation AI initiatives achieve their stated goals.\n\nPair that with McKinsey's 2026 State of AI survey. Supply chain is the function leaders most often credit with AI-driven cost reduction - and the function where they most expect AI-driven headcount cuts. Same budget line, described two different ways: funded to cut cost, measured against a goal 4 out of 5 projects miss.\n\n→ A funded project and a successful project aren't the same milestone - most dashboards only track the first one\n→ Gartner's own fix isn't \"spend less.\" It's running AI-embedded quick wins alongside a slower, AI-native redesign, instead of betting the budget on one approach\n→ If headcount is the savings line in the business case, define that number before the project starts, not after it ships\n\nBefore you sign next year's AI budget: is it funding a goal you can measure in 12 months, or a hope you'll be re-explaining in the next review?",
+      "hashtags": "#SupplyChainROI #AIStrategy #OperationsExcellence #Gartner #McKinsey",
+      "imageIdea": "A dimly lit warehouse operations control room at dusk, a large wall-mounted dashboard screen showing an abstract upward-trending budget bar chart beside a much smaller, separate progress gauge stuck low, both rendered blurred and without legible numbers, a stack of printed reports on a desk in the foreground, cool industrial lighting with a warm accent glow, cinematic shallow depth of field, editorial corporate-operations photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "ROI & Automation",
+        "title": [
+          "Funding is up 80%.",
+          "Results hit goal 20%."
+        ],
+        "big": "20%"
+      },
+      "sources": [
+        "Gartner, Gartner Supply Chain Symposium/Xpo 2026 Barcelona: Day 3 Highlights (May 20, 2026) — https://www.gartner.com/en/newsroom/press-releases/2026-05-20-gartner-supply-chain-symposium-xpo-barcelona-day-3-highlights",
+        "McKinsey, The State of AI in 2026: On the Road to ROI — https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai"
+      ]
+    },
+    {
+      "id": "marta-2026-11-06-01",
+      "pillar": "retrabajo",
+      "format": "post",
+      "lang": "en",
+      "hooks": [
+        "The FDA's first AI-citing warning letter is six months old. Most pharma companies' quality agreements with their CMOs still don't mention AI at all.",
+        "Your CMO's SOPs might already be AI-generated. Check your quality agreement - does it even give you the right to ask?",
+        "One warning letter in April changed what 'quality unit review' means for AI. Most supplier quality agreements signed before that date never got the memo."
+      ],
+      "caption": "The FDA's first AI-citing warning letter is six months old. Most pharma companies' quality agreements with their CMOs still don't mention AI at all.\n\nOn April 2, FDA cited Purolea Cosmetics Lab under 21 CFR 211.22(c): the quality unit never reviewed AI-generated specs, SOPs, and batch records before they reached the line. That was a sign-off failure, not a new AI-specific rule - the same standard FDA has always applied, just caught up to a new kind of document.\n\n→ Most quality agreements with CMOs and suppliers were drafted before anyone asked \"did AI write this\" - and most are silent on disclosure, permitted use, or audit rights for it\n→ Regulatory counsel following the case are now telling clients to add explicit AI-use disclosure and audit-access clauses to every active supplier quality agreement, not just internal SOPs\n→ That's a full round of contract rework across every CMO relationship a company has, triggered by one letter at one company\n\nThe warning letter made the news in April. The actual work - rereading and amending every supplier quality agreement you hold - is the part nobody put on a project plan.\n\nHave you actually reread your CMO's quality agreement since April, or are you assuming it already covers this?",
+      "hashtags": "#PharmaCompliance #GMP #QualityAssurance #FDA #PharmaSupplyChain",
+      "imageIdea": "An archive room of pharmaceutical quality agreements, a long industrial shelving unit lined with identical black binders, one binder pulled halfway out with a bright yellow tab marker, a second open binder on a nearby steel table showing blurred illegible contract clauses, cold fluorescent archive lighting mixed with a warm desk lamp glow, shallow depth of field, editorial pharma-compliance photography, no people, no logos, no legible text.",
+      "cover": {
+        "kicker": "cGMP Compliance",
+        "title": [
+          "The warning letter is old news.",
+          "The contract rework isn't."
+        ],
+        "big": "211.22"
+      },
+      "sources": [
+        "DLA Piper, FDA Warning Letter Highlights Risks of Using AI in Drug Manufacturing (April 2026) — https://www.dlapiper.com/en/insights/publications/2026/04/fda-warning-letter-highlights-risks-of-using-ai-in-drug-manufacturing",
+        "Clarkston Consulting, FDA Warning Letter for Inappropriate AI Use — https://clarkstonconsulting.com/insights/fda-warning-letter-for-inappropriate-ai-use/"
+      ]
     }
   ]
 }
